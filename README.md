@@ -1,9 +1,9 @@
-    ## Emeği Geçenler
+## Emeği Geçenler
 
 | Roller         | Ekip         |
 |----------------|--------------|
 | Çeviri         | Vuats        |
-| Editör	       | Einherjar    |
+| Editör	     | Einherjar    |
 | Yazı Dizimi    | Vuats        |
 | Son Kontrol    | Kenanke      |
 | Şarkılar 	     | Vuats        |
