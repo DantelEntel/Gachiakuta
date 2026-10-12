@@ -1,0 +1,754 @@
+[Script Info]
+Title: Dantel Entel
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Commie Sans,70,&H00FFFFFF,&H000000FF,&H00000000,&H5F591720,0,0,0,0,100,100,0,0,1,3.2,1.2,2,250,250,60,1
+Style: Default-Alt,Commie Sans,70,&H00FFFFFF,&H000000FF,&H003D0107,&H5F000000,0,0,0,0,100,100,0,0,1,3.2,1.2,2,250,250,60,1
+Style: vuatsigns,LLCharlotte,80,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,0,0,0,0
+Style: OP02,Iwata Mincho Pro M-Kami,62,&H00FFFFFF,&H000000FF,&H00000000,&H76000000,-1,0,0,0,100,100,0,0,1,0,2,8,20,40,60,0
+Style: ED02,FOT-NewRodin Pro DB,62,&H25000000,&H000000FF,&H00000000,&H60FFFFFF,-1,0,0,0,100,100,0,0,3,0,1,2,20,40,75,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 1,0:00:00.00,0:00:00.02,Default,,0,0,0,,{Çeviri: Vuats}{Çeviri Editörü: Einherjar}{Yazı Dizimi: Vuats}{Şarkılar: Vuats}{Son Kontrol: MubaREKT}{https://github.com/DantelEntel}
+Dialogue: 20,0:00:03.14,0:00:04.97,Default,,0,0,0,,{\i1}Hey, hey, hey!
+Dialogue: 20,0:00:04.97,0:00:06.96,Default,,0,0,0,,{\i1}Good afternoon!
+Dialogue: 20,0:00:06.96,0:00:10.33,Default,,0,0,0,,{\i1}Ordinary people!\NSpikeriniz Maymo bildiriyor!
+Dialogue: 20,0:00:10.33,0:00:11.63,Default,,0,0,0,,{\i1}Yeah, yeah, yeah!
+Dialogue: 20,0:00:11.63,0:00:13.85,Default,,0,0,0,,{\i1\an8}Hazırsanız hava durumu başlıyor!
+Dialogue: 20,0:00:12.04,0:00:15.08,Default,,0,0,0,,Neden hep ben kullanıyorum biliyor musun?
+Dialogue: 20,0:00:13.85,0:00:15.67,Default,,0,0,0,,{\i1\an8}Dikkatli dinleyin, tekrar etmeyeceğiz!
+Dialogue: 20,0:00:15.67,0:00:18.53,Default,,0,0,0,,{\i1\an8}Güney ile başlıyoruz!
+Dialogue: 20,0:00:15.67,0:00:19.17,Default,,0,0,0,,Başkası kullandığında uykum geliyor da ondan.
+Dialogue: 20,0:00:18.53,0:00:21.97,Default,,0,0,0,,{\i1\an8}Akşam başlayacak olan hafif yağmur gece boyu sürecek.
+Dialogue: 20,0:00:19.17,0:00:21.97,Default,,0,0,0,,Hele bi' de Gris sürerse ayvayı yiyorum.
+Dialogue: 20,0:00:21.97,0:00:25.34,Default,,0,0,0,,{\q2\i1\an8}İşten dönenler şemsiyesini unutursa olacaklara karışmam!
+Dialogue: 20,0:00:21.97,0:00:25.34,Default,,0,0,0,,Öyle yumuşak kullanıyor ki\Nuçurumdan yuvarlansak anlamazsın.
+Dialogue: 20,0:00:25.92,0:00:30.47,Default,,0,0,0,,{\i1\an8}Kamuatari'de bulutlu hava hakim olmaya devam edecek.
+Dialogue: 20,0:00:30.47,0:00:32.35,Default,,0,0,0,,Sen de bokunu çıkarıyo'n Enjin!
+Dialogue: 20,0:00:30.47,0:00:33.17,Default,,0,0,0,,{\i1\an8}Hadi biraz da Doğu'dan söz edelim.
+Dialogue: 20,0:00:32.35,0:00:34.89,Default,,0,0,0,,Benim mi suçum oğlum, arazi boktan!
+Dialogue: 20,0:00:33.17,0:00:37.61,Default,,0,0,0,,{\q2\i1\an8}Geçen hafta da demiştik, Doğuluları büyük bir fırtına bekliyor.
+Dialogue: 20,0:00:37.61,0:00:39.13,Default,,0,0,0,,{\i1\an8}Tepenizde bi' bulut görürseniz...
+Dialogue: 20,0:00:37.61,0:00:42.12,Default,,0,0,0,,Remlin'in büyüsü ufak tefek\N sıyrıkları iyileştirmiyor muymuş?
+Dialogue: 20,0:00:39.13,0:00:42.12,Default,,0,0,0,,{\i1\an8}...çöp fırtınasıyla karşılaşmanız olası, aman dikkat!
+Dialogue: 20,0:00:42.12,0:00:45.26,Default,,0,0,0,,{\i1\an8}Kafanıza göre iş yapmayın yani!
+Dialogue: 20,0:00:42.12,0:00:45.26,Default,,0,0,0,,Ölümcül yaralara karşı yaptırmıştık zaten.
+Dialogue: 20,0:00:45.26,0:00:47.90,Default,,0,0,0,,Remlin de böyle söylemişti.
+Dialogue: 20,0:00:48.36,0:00:51.17,Default,,0,0,0,,Çoğunun sorumlusu bu arkadaş oldu gerçi.
+Dialogue: 20,0:00:51.17,0:00:52.94,Default,,0,0,0,,Zorunluluktan da olsa...
+Dialogue: 20,0:00:52.94,0:00:55.58,Default,,0,0,0,,Bu durum beni de üzüyor.
+Dialogue: 20,0:00:55.58,0:00:58.96,Default,,0,0,0,,Issız Topraklar'a adım attığında\Naldığın risk bu işte.
+Dialogue: 20,0:00:58.96,0:01:01.88,Default,,0,0,0,,Doğru düzgün bir doktora görünsek iyi olur.
+Dialogue: 20,0:01:03.96,0:01:05.53,Default,,0,0,0,,Şurada var bi' tanıdık.
+Dialogue: 20,0:01:12.42,0:01:14.06,Default,,0,0,0,,Bu manzarayı...
+Dialogue: 20,0:01:14.06,0:01:16.45,Default,,0,0,0,,...sanki daha önce görmüştüm lan...
+Dialogue: 20,0:01:22.43,0:01:24.06,Default,,0,0,0,,Tanıdık dediğin doktor...
+Dialogue: 20,0:01:24.39,0:01:25.64,Default,,0,0,0,,...o muydu yoksa?
+Dialogue: 20,0:01:28.65,0:01:31.26,Default,,0,0,0,,Ne zamandır görüşmüyorduk!
+Dialogue: 20,0:03:03.07,0:03:04.71,Default,,0,0,0,,Ne arıyonu'z burada?
+Dialogue: 20,0:03:04.71,0:03:06.96,Default,,0,0,0,,İşim başımdan aşkın zaten!
+Dialogue: 20,0:03:07.72,0:03:08.76,Default,,0,0,0,,Dayı-
+Dialogue: 20,0:03:09.54,0:03:10.71,Default,,0,0,0,,Teyze.
+Dialogue: 20,0:03:10.71,0:03:12.67,Default,,0,0,0,,Az daha yiyo'dun şamarı çocuk!
+Dialogue: 20,0:03:12.67,0:03:14.79,Default,,0,0,0,,Bağırma be kadın!
+Dialogue: 20,0:03:14.79,0:03:16.73,Default,,0,0,0,,Başımın ağrısından ölüyorum zaten!
+Dialogue: 20,0:03:16.73,0:03:18.36,Default,,0,0,0,,Tedaviye susarak başlayabilirsin!
+Dialogue: 20,0:03:18.36,0:03:20.37,Default,,0,0,0,,Sensin bağırma be!
+Dialogue: 20,0:03:20.37,0:03:23.77,Default,,0,0,0,,Yardımımı istiyorsan çeneni tut ve işime karışma.
+Dialogue: 20,0:03:23.77,0:03:27.08,Default,,0,0,0,,Çattık ya! Torunlarım gelmiş o kadar!
+Dialogue: 20,0:03:27.08,0:03:29.40,Default,,0,0,0,,Biraz sükuneti hak ettim sanıyordum!
+Dialogue: 20,0:03:29.82,0:03:31.92,Default,,0,0,0,,İşte! Bu kadardı.
+Dialogue: 20,0:03:31.92,0:03:34.78,Default,,0,0,0,,Şimdi ver paramı da ikile!
+Dialogue: 20,0:03:36.39,0:03:38.74,Default,,0,0,0,,Daha da gelmem sana, huysuz karı!
+Dialogue: 20,0:03:38.74,0:03:40.33,Default,,0,0,0,,Hasta bunak.
+Dialogue: 20,0:03:42.70,0:03:45.85,Default,,0,0,0,,Bu yüzden yeni hastan olmuyor işte.
+Dialogue: 20,0:03:45.85,0:03:51.26,Default,,0,0,0,,Onun gibi ağlaklar yüzünden\Nkarakterimi mi değişce'm?
+Dialogue: 20,0:03:51.26,0:03:52.88,Default,,0,0,0,,Haklı valla.
+Dialogue: 20,0:03:52.88,0:03:57.35,Default,,0,0,0,,Enjin bu bölgeden geçerken hep buraya uğruyor.
+Dialogue: 20,0:03:57.35,0:03:59.55,Default,,0,0,0,,Ucube bunağı seviyo' demek ki.
+Dialogue: 20,0:03:59.91,0:04:03.47,Default,,0,0,0,,Sevilmez mi lan!\NHarbi kadındır, ayıktırayım!
+Dialogue: 20,0:04:04.03,0:04:07.69,Default,,0,0,0,,Bünye zehirlenmesi tedavisini ona borçluyuz!
+Dialogue: 20,0:04:08.03,0:04:10.86,Default,,0,0,0,,Tedaviyi zehirli nesneler\Nüzerinde çalışırken bulmuş...
+Dialogue: 20,0:04:10.86,0:04:14.58,Default,,0,0,0,,{\blur0.6}...ama onlarla fazla haşır neşir olunca\Nbağırmak gibi bir yan etki oluşmuş.
+Dialogue: 20,0:04:14.58,0:04:16.50,Default,,0,0,0,,Gel de tırsma bu teyzeden.
+Dialogue: 20,0:04:16.82,0:04:19.45,Default,,0,0,0,,Adımla hitap edin artık!
+Dialogue: 20,0:04:19.45,0:04:21.81,Default,,0,0,0,,Adım Alice!
+Dialogue: 20,0:04:21.81,0:04:23.70,Default,,0,0,0,,Alice Stilza!
+Dialogue: 20,0:04:23.70,0:04:25.29,Default,,0,0,0,,Unutmayın ha!
+Dialogue: 20,0:04:25.76,0:04:27.54,Default,,0,0,0,,{\i1}İsmi tatlıymış.
+Dialogue: 20,0:04:29.04,0:04:30.16,Default,,0,0,0,,Stilza mı?
+Dialogue: 20,0:04:30.16,0:04:32.29,Default,,0,0,0,,Büyükanne!
+Dialogue: 20,0:04:33.06,0:04:35.59,Default,,0,0,0,,Kurabiyeler bok gibi olmuş!
+Dialogue: 20,0:04:37.04,0:04:40.58,Default,,0,0,0,,Abi... Öyle denir mi hiç?..
+Dialogue: 20,0:04:41.05,0:04:43.09,Default,,0,0,0,,Ne? Sizin burada...
+Dialogue: 20,0:04:43.09,0:04:45.56,Default,,0,0,0,,Ana! Ne işiniz var burada?
+Dialogue: 20,0:04:46.00,0:04:48.11,Default,,0,0,0,,{\i1}Akraba mıymış bunlar?
+Dialogue: 20,0:04:50.48,0:04:53.64,Default,,0,0,0,,Arada bir uğruyoruz.
+Dialogue: 20,0:04:53.64,0:04:56.13,Default,,0,0,0,,Ailemizi kaybettiğimiz için-
+Dialogue: 20,0:04:54.73,0:04:56.13,Default,,0,0,0,,{\an8}Tahtalıköyü boyladılar!
+Dialogue: 20,0:04:56.13,0:04:57.88,Default,,0,0,0,,Bir de sağlık alanında gelişmek için...
+Dialogue: 20,0:04:57.88,0:04:59.36,Default,,0,0,0,,Doktorun hasıdır!
+Dialogue: 20,0:04:59.36,0:05:01.34,Default,,0,0,0,,August!
+Dialogue: 20,0:05:01.34,0:05:04.83,Default,,0,0,0,,Madem sevmedin, daha da nah bulursun!
+Dialogue: 20,0:05:04.83,0:05:07.67,Default,,0,0,0,,{\an8}İğrençtiler büyükanne, yalan mı söyleyeyim!
+Dialogue: 20,0:05:07.67,0:05:09.70,Default,,0,0,0,,{\an8}Bir tepsi kurabiye yedin lan!
+Dialogue: 20,0:05:07.97,0:05:10.73,Default,,0,0,0,,Yine didişmeden duramıyorlar.
+Dialogue: 20,0:05:09.70,0:05:11.33,Default,,0,0,0,,{\an8}Ayıp oluyor, abi...
+Dialogue: 20,0:05:16.07,0:05:20.79,Default,,0,0,0,,Tedavi edecek kimse kalmadı.\NHadi dönelim, yoruldum.
+Dialogue: 20,0:05:20.79,0:05:24.05,Default,,0,0,0,,Yeriniz var mı? Bizi de alsanıza!
+Dialogue: 20,0:05:24.05,0:05:26.26,Default,,0,0,0,,Motosikletle geldik ya!
+Dialogue: 20,0:05:26.26,0:05:28.43,Default,,0,0,0,,{\i1}Bitirim ikilinin kurbanı.
+Dialogue: 20,0:05:28.43,0:05:30.76,Default,,0,0,0,,Issız Topraklar nasıldı?
+Dialogue: 20,0:05:30.76,0:05:33.75,Default,,0,0,0,,Yaptığım maske rahat mıydı Rudo?
+Dialogue: 20,0:05:33.75,0:05:35.27,Default,,0,0,0,,Çok bağırıyo'n ha!
+Dialogue: 20,0:05:35.63,0:05:38.64,Default,,0,0,0,,Anlatması uzun sürer, raporu okursun.
+Dialogue: 20,0:05:38.64,0:05:41.49,Default,,0,0,0,,Söyleme şeklin kulağa hiç hoş gelmiyor!
+Dialogue: 20,0:05:46.65,0:05:52.73,Default,,0,0,0,,Doğru ya! Bulut yakında buralarda olacak.\NÇöplerden korunacak bi' yer bulsanız iyi olur.
+Dialogue: 20,0:05:52.73,0:05:54.17,Default,,0,0,0,,Dikkat ederiz.
+Dialogue: 20,0:05:54.17,0:05:57.59,Default,,0,0,0,,Hadi görüşürüz!
+Dialogue: 20,0:05:57.59,0:06:00.61,Default,,0,0,0,,Muhtemelen dönüş yolunda yakalanacağız.
+Dialogue: 20,0:06:02.78,0:06:03.91,Default,,0,0,0,,Bulut mu?
+Dialogue: 20,0:06:24.81,0:06:26.87,Default,,0,0,0,,Sefadiyar hareket halindedir.
+Dialogue: 20,0:06:27.57,0:06:30.56,Default,,0,0,0,,Bu yüzden bazen üstümüze bir yığın çöp düşer.
+Dialogue: 20,0:06:31.45,0:06:34.03,Default,,0,0,0,,Çöplerin düştüğü yerler genelde bellidir...
+Dialogue: 20,0:06:34.03,0:06:37.46,Default,,0,0,0,,...bu sayede sığınaklar inşa edebiliyoruz.
+Dialogue: 20,0:06:37.46,0:06:40.13,Default,,0,0,0,,Ama söz konusu böyle bir ivme\Nolunca emin olamıyorsun.
+Dialogue: 20,0:06:40.13,0:06:43.55,Default,,0,0,0,,Düşen çöp yığınları yüzünden ölen bir yığın insan var.
+Dialogue: 20,0:06:43.55,0:06:47.85,Default,,0,0,0,,Sefakar nefretinin bir diğer nedeni de bu işte.
+Dialogue: 20,0:06:49.46,0:06:55.94,Default,,0,0,0,,Ne yazık ki intikam almak için yukarı\Ngitmeye çalışanları da sınır öldürüyor.
+Dialogue: 20,0:06:57.31,0:06:59.45,Default,,0,0,0,,Harbi enteresan olay.
+Dialogue: 20,0:06:59.45,0:07:03.07,Default,,0,0,0,,Sınır neden Rudo'nun ya da\No meleklerin geçmesine izin verdi?
+Dialogue: 20,0:07:05.16,0:07:07.57,Default,,0,0,0,,Ben de bilmiyorum... Ama...
+Dialogue: 20,0:07:08.19,0:07:10.58,Default,,0,0,0,,Sanki bir şey görür gibi oldum.
+Dialogue: 20,0:07:10.58,0:07:13.89,Default,,0,0,0,,"Bir şey" derken, nasıl yani?
+Dialogue: 20,0:07:14.55,0:07:16.10,Default,,0,0,0,,Bilmiyorum ki.
+Dialogue: 20,0:07:16.49,0:07:18.79,Default,,0,0,0,,Düştüğüm ana dair anılarım çok bulanık.
+Dialogue: 20,0:07:19.56,0:07:20.43,Default,,0,0,0,,Ama...
+Dialogue: 20,0:07:47.32,0:07:48.56,Default,,0,0,0,,Benimki.
+Dialogue: 20,0:07:48.56,0:07:49.44,Default,,0,0,0,,Alo?
+Dialogue: 20,0:07:49.44,0:07:50.87,Default,,0,0,0,,{\i1}Enjin, neredesiniz?
+Dialogue: 20,0:07:50.87,0:07:52.19,Default,,0,0,0,,Semiyu!
+Dialogue: 20,0:07:52.19,0:07:53.55,Default,,0,0,0,,Dönüş yolundayız.
+Dialogue: 20,0:07:53.55,0:07:55.72,Default,,0,0,0,,Olanları karargahta anlatırım.
+Dialogue: 20,0:07:55.72,0:07:57.35,Default,,0,0,0,,Merakla bekliyorum.
+Dialogue: 20,0:07:57.35,0:08:00.67,Default,,0,0,0,,{\i1}Ama bu sefer arka girişi kullansanız iyi olur.
+Dialogue: 20,0:08:01.97,0:08:05.22,Default,,0,0,0,,{\i1}Ana giriş haşere istilası altında.
+Dialogue: 20,0:08:09.92,0:08:12.14,Default,,0,0,0,,Ana giriş mi? İstila mı?
+Dialogue: 20,0:08:12.92,0:08:14.66,Default,,0,0,0,,Hiçbir şey anlamadım.
+Dialogue: 20,0:08:23.02,0:08:24.96,Default,,0,0,0,,Arka giriş burası.
+Dialogue: 20,0:08:28.34,0:08:32.91,Default,,0,0,0,,Temizlikçi diye geçinirken haşere\Nistilasına uğramamız da ayrı komedi.
+Dialogue: 20,0:08:32.91,0:08:35.57,Default,,0,0,0,,Ne? Böcek falan mı varmış?
+Dialogue: 20,0:08:35.57,0:08:36.66,Default,,0,0,0,,Aynen öyle!
+Dialogue: 20,0:08:36.66,0:08:39.73,Default,,0,0,0,,Çapulcu adını verdiğimiz böcekler!
+Dialogue: 20,0:08:44.41,0:08:46.09,Default,,0,0,0,,Tam on ikiden!
+Dialogue: 20,0:08:46.42,0:08:50.45,Default,,0,0,0,,İçlerinde bir Sefakar tuttuklarına göre\Nsavunmaları güçlüdür diyordum ki...
+Dialogue: 20,0:08:50.45,0:08:52.78,Default,,0,0,0,,...embesillerin zerre savunması yokmuş!
+Dialogue: 20,0:08:52.78,0:08:56.22,Default,,0,0,0,,Sefakar itini şipşak ele geçiririz.
+Dialogue: 20,0:08:56.73,0:08:58.27,Default,,0,0,0,,Çapulcular mı?
+Dialogue: 20,0:08:59.58,0:09:02.75,Default,,0,0,0,,İşimiz sakat! Yardımlarına koşmamız lazım.
+Dialogue: 20,0:09:02.75,0:09:06.16,Default,,0,0,0,,Ta Issız Topraklar'dan dönüyoruz ya.
+Dialogue: 20,0:09:06.16,0:09:07.70,Default,,0,0,0,,Uğraştırıyorlar adamı.
+Dialogue: 20,0:09:07.70,0:09:09.98,Default,,0,0,0,,Az salın da bi' nefes alalım lan!
+Dialogue: 20,0:09:11.82,0:09:14.96,Default,,0,0,0,,Dikkat! Temizlikçilere sesleniyoruz!
+Dialogue: 20,0:09:14.96,0:09:18.83,Default,,0,0,0,,Üssünüzde daha büyük bir delik\Nistemiyorsanız, anlaşabiliriz.
+Dialogue: 20,0:09:18.83,0:09:22.33,Default,,0,0,0,,O Sefakarı bize bahşederseniz sizi rahat bırakırız!
+Dialogue: 20,0:09:22.33,0:09:25.91,Default,,0,0,0,,Kabul etmezseniz binayı başınıza yıkacağız!
+Dialogue: 20,0:09:28.87,0:09:30.13,Default,,0,0,0,,{\i1}Hayret.
+Dialogue: 20,0:09:30.13,0:09:33.59,Default,,0,0,0,,{\i1}Siz haşereler "bahşetmeyi"\Nfalan nereden öğrendiniz?
+Dialogue: 20,0:09:34.02,0:09:37.49,Default,,0,0,0,,{\i1}Sizi kim kandırdı bilmiyoruz ama...
+Dialogue: 20,0:09:37.49,0:09:40.71,Default,,0,0,0,,{\i1}...açıktan saldırdığınızı\Ngörünce bi' afalladım.
+Dialogue: 20,0:09:41.53,0:09:44.10,Default,,0,0,0,,Çok da fark etmez gerçi.
+Dialogue: 20,0:09:45.64,0:09:49.11,Default,,0,0,0,,Adil bir savaş istiyoruz.
+Dialogue: 20,0:09:49.90,0:09:51.13,Default,,0,0,0,,{\i1}Dermişim.
+Dialogue: 20,0:09:51.68,0:09:53.38,Default,,0,0,0,,{\i1}Tek amacımız dikkat dağıtmak.
+Dialogue: 20,0:09:53.38,0:09:56.64,Default,,0,0,0,,{\i1}Biz konuşurken diğerleri arkadan sızıyor!
+Dialogue: 20,0:09:57.12,0:09:59.95,Default,,0,0,0,,Uzatmamızın bir manası yok bayan.
+Dialogue: 20,0:10:00.32,0:10:03.75,Default,,0,0,0,,Sefakar'ı yollarsanız tek delikle kurtulursunuz.
+Dialogue: 20,0:10:03.75,0:10:06.42,Default,,0,0,0,,{\i1}Ben kadın değilim bu arada.
+Dialogue: 20,0:10:07.94,0:10:11.26,Default,,0,0,0,,{\i1}Hemen de yediniz, aptal sazanlar.
+Dialogue: 20,0:10:12.34,0:10:14.89,Default,,0,0,0,,Ulan kaşar! Bizimle böyle-
+Dialogue: 20,0:10:14.89,0:10:17.60,Default,,0,0,0,,{\i1}Ayrıca delik diyorsun da hangi delik?
+Dialogue: 20,0:10:19.10,0:10:21.31,Default,,0,0,0,,O kadar roket attım lan...
+Dialogue: 20,0:10:23.52,0:10:25.14,Default,,0,0,0,,Hey...
+Dialogue: 20,0:10:27.23,0:10:28.96,Default,,0,0,0,,Siz burada napıyonu'z lan?
+Dialogue: 20,0:10:28.96,0:10:30.50,Default,,0,0,0,,İçeri sızacaktınız ya hani!
+Dialogue: 20,0:10:30.50,0:10:35.32,Default,,0,0,0,,Valla binaya girmek için denemediğimiz şey kalmadı.
+Dialogue: 20,0:10:35.32,0:10:38.91,Default,,0,0,0,,{\i1}İçeri girmek için izin almalısınız.
+Dialogue: 20,0:10:39.63,0:10:43.33,Default,,0,0,0,,{\i1}Yüce Münzevi'nin iznini.
+Dialogue: 20,0:10:45.23,0:10:47.98,Default,,0,0,0,,Yine mi saldırı altındayız?
+Dialogue: 20,0:10:48.58,0:10:50.76,Default,,0,0,0,,Tir tir titriyorum...
+Dialogue: 20,0:10:53.45,0:10:55.09,Default,,0,0,0,,Ne yazık ki...
+Dialogue: 20,0:10:55.09,0:10:57.76,Default,,0,0,0,,Sizde böyle bir izin yok.
+Dialogue: 20,0:10:59.64,0:11:01.60,Default,,0,0,0,,Bu yüzden imha işlemini başlatacağım.
+Dialogue: 20,0:11:02.83,0:11:04.73,Default,,0,0,0,,Ee, ne duruyorsunuz?
+Dialogue: 20,0:11:05.57,0:11:07.48,Default,,0,0,0,,Elinizi korkak alıştırmayın.
+Dialogue: 20,0:11:09.00,0:11:11.32,Default,,0,0,0,,Bunu sen istedin bayan!
+Dialogue: 20,0:11:11.32,0:11:13.24,Default,,0,0,0,,Al bakalım!
+Dialogue: 20,0:11:36.04,0:11:39.68,Default,,0,0,0,,Kodumun Bahşedicileri!
+Dialogue: 20,0:11:52.02,0:11:54.38,Default,,0,0,0,,Şerefsizler...
+Dialogue: 20,0:12:02.77,0:12:05.58,Default,,0,0,0,,Fazla güçlüler...
+Dialogue: 20,0:12:06.71,0:12:12.11,Default,,0,0,0,,Benimle boy ölçüşmek istiyorsanız\Nelinizi daha sıra dışı oynamalısınız.
+Dialogue: 20,0:12:15.77,0:12:18.04,Default,,0,0,0,,Yine tek başına halletmişsin.
+Dialogue: 20,0:12:18.04,0:12:19.59,Default,,0,0,0,,İyisin iyi.
+Dialogue: 20,0:12:19.59,0:12:21.25,Default,,0,0,0,,Bir düzine serseri sadece.
+Dialogue: 20,0:12:21.25,0:12:23.73,Default,,0,0,0,,Bunlara kaybetseydim aynada yüzüme bakamazdım.
+Dialogue: 20,0:12:24.23,0:12:25.25,Default,,0,0,0,,Şimdi...
+Dialogue: 20,0:12:26.11,0:12:31.50,Default,,0,0,0,,Burada Sefakar olduğu bilgisini kimden aldınız?
+Dialogue: 20,0:12:32.63,0:12:35.29,Default,,0,0,0,,Aklımda birileri var gerçi.
+Dialogue: 20,0:12:35.29,0:12:36.94,Default,,0,0,0,,Aynı fikirdeyiz.
+Dialogue: 20,0:12:37.48,0:12:39.03,Default,,0,0,0,,Hatta muhtemelen...
+Dialogue: 20,0:12:40.41,0:12:42.19,Default,,0,0,0,,...yakında harekete geçecekler.
+Dialogue: 20,0:12:49.76,0:12:51.51,Default,,0,0,0,,{\i1}Adım...
+Dialogue: 20,0:12:51.90,0:12:53.98,Default,,0,0,0,,{\i1}Neyse ne.
+Dialogue: 20,0:12:53.98,0:12:57.09,Default,,0,0,0,,{\i1}Zarafet arayan yaşlı bir adamım, o kadar.
+Dialogue: 20,0:12:57.69,0:13:02.83,Default,,0,0,0,,{\i1}Bu Dan Dulse denen zarif barda\Ngünün yorgunluğunu üzerimden atıyorum.
+Dialogue: 20,0:13:03.62,0:13:07.07,Default,,0,0,0,,{\i1}Zarif yemekler, zarif hizmet...
+Dialogue: 20,0:13:07.51,0:13:09.74,Default,,0,0,0,,{\i1}...ve zarif saçlı devamlı müşteriler.
+Dialogue: 20,0:13:10.34,0:13:12.15,Default,,0,0,0,,{\i1}Birkaç yeni yüz de var.
+Dialogue: 20,0:13:13.07,0:13:16.72,Default,,0,0,0,,{\i1}Burada olmak insanı yatıştırıyor.
+Dialogue: 20,0:13:20.91,0:13:23.78,Default,,0,0,0,,{\i1}Tek derdim şu masa.
+Dialogue: 20,0:13:26.52,0:13:29.02,Default,,0,0,0,,{\i1}Onlar da devamlı müşteri.
+Dialogue: 20,0:13:29.02,0:13:33.46,Default,,0,0,0,,{\i1}Bir objeye muhtaç yaşayan Bahşediciler.
+Dialogue: 20,0:13:34.12,0:13:37.05,Default,,0,0,0,,{\i1}Korkuyorum haliyle.
+Dialogue: 20,0:13:37.41,0:13:40.55,Default,,0,0,0,,{\i1}Şu dövmeli çocuğun bakışlara baksana.
+Dialogue: 20,0:13:40.55,0:13:44.85,Default,,0,0,0,,{\i1}Zarif görünüşlü genç bile bakışlarıyla beni ürkütüyor.
+Dialogue: 20,0:13:45.10,0:13:47.85,Default,,0,0,0,,{\i1}Şu sevimli hanımefendi de farklı değil.
+Dialogue: 20,0:13:48.23,0:13:52.52,Default,,0,0,0,,Özür dilerim Rudo.\NYanlışlıkla seninkinden içmişim.
+Dialogue: 20,0:13:56.65,0:13:59.40,Default,,0,0,0,,{\i1}Bu çocuğun bakışı bakış değil!
+Dialogue: 20,0:13:59.40,0:14:01.66,Default,,0,0,0,,{\i1}Derdi ne bunun?
+Dialogue: 20,0:14:01.66,0:14:03.95,Default,,0,0,0,,{\i1}Gözleri sinirden fırlayacak!
+Dialogue: 20,0:14:03.95,0:14:07.95,Default,,0,0,0,,{\i1}Yarıatıklarla savaşanlar bu hale mi geliyor acaba?
+Dialogue: 20,0:14:08.31,0:14:11.45,Default,,0,0,0,,{\i1}Titrememi durduramıyorum!
+Dialogue: 20,0:14:11.45,0:14:12.77,Default,,0,0,0,,Gidiyo'm ben!
+Dialogue: 20,0:14:12.77,0:14:13.90,Default,,0,0,0,,Yine bekleriz!
+Dialogue: 20,0:14:16.05,0:14:18.20,Default,,0,0,0,,{\i1}Riyo benim içkimi...
+Dialogue: 20,0:14:18.20,0:14:21.03,Default,,0,0,0,,Amma sürdü ha. Sıçtın mı?
+Dialogue: 20,0:14:22.67,0:14:26.58,Default,,0,0,0,,Bu arada niye yemek için burada toplandık lan?
+Dialogue: 20,0:14:26.58,0:14:28.76,Default,,0,0,0,,Daha yeni üssümüze saldırdılar!
+Dialogue: 20,0:14:29.08,0:14:30.88,Default,,0,0,0,,Anlasana oğlum.
+Dialogue: 20,0:14:30.88,0:14:33.68,Default,,0,0,0,,Arada bi' mola vermeden olmaz.
+Dialogue: 20,0:14:33.68,0:14:38.30,Default,,0,0,0,,Aynen öyle. Bir işi bitirdiğimizde\Nhep birlikte yemek yeriz.
+Dialogue: 20,0:14:38.30,0:14:40.48,Default,,0,0,0,,Çok sorgulama, otur ye.
+Dialogue: 20,0:14:40.48,0:14:44.61,Default,,0,0,0,,Biraz daha tedbirli davranmamız gerekmez mi?
+Dialogue: 20,0:14:44.90,0:14:47.87,Default,,0,0,0,,Ne demek istediğini anladım, Rudo.
+Dialogue: 20,0:14:48.32,0:14:52.13,Default,,0,0,0,,Ama durum ne kadar çetrefilli olursa olsun...
+Dialogue: 20,0:14:52.13,0:14:55.37,Default,,0,0,0,,...aş ve yoldaş bize devam edecek gücü verir. {:thumbsup:}
+Dialogue: 20,0:14:55.73,0:14:59.00,Default,,0,0,0,,Hem ilk kez saldırıya uğramıyoruz.
+Dialogue: 20,0:14:59.71,0:15:05.28,Default,,0,0,0,,Kendilerinden daha ünlü ve zengin\Ntiplere kurulup saldıran bi' dünya insan var..
+Dialogue: 20,0:15:05.67,0:15:07.89,Default,,0,0,0,,Zavallı herifler.
+Dialogue: 20,0:15:07.89,0:15:08.95,Default,,0,0,0,,Ölüp gitseler keşke.
+Dialogue: 20,0:15:08.95,0:15:12.64,Default,,0,0,0,,Yoksa bu çapulcuları her seferinde\NSemiyu tek başına mı defediyor?
+Dialogue: 20,0:15:13.10,0:15:14.60,Default,,0,0,0,,Yes!
+Dialogue: 20,0:15:15.11,0:15:21.19,Default,,0,0,0,,Acayip bir yöntem veya güçleri\Nolmadıkça Semiyu'yu aşamazlar.
+Dialogue: 20,0:15:21.19,0:15:25.44,Default,,0,0,0,,Ki başarsan bile seni takdir eder, o kadar.
+Dialogue: 20,0:15:25.44,0:15:27.70,Default,,0,0,0,,Di' mi? Bence de.
+Dialogue: 20,0:15:27.70,0:15:31.03,Default,,0,0,0,,Madem bu kadar güçlü\Nneden danışmanlıkla yetiniyor?
+Dialogue: 20,0:15:31.03,0:15:34.72,Default,,0,0,0,,Göz adını verdiği gözlüklerinin gücü gözlem.
+Dialogue: 20,0:15:34.72,0:15:37.79,Default,,0,0,0,,Yarıatıklar karşısında etkili değil.
+Dialogue: 20,0:15:38.09,0:15:40.79,Default,,0,0,0,,Bi' de beyaz yakalı olmak çocukluk hayaliymiş zaten.
+Dialogue: 20,0:15:41.65,0:15:43.60,Default,,0,0,0,,{\i1}Bence esas sebebi bu.
+Dialogue: 20,0:15:44.21,0:15:48.97,Default,,0,0,0,,Yani sırf Bahşedici oldun diye Yarıatıklar\Nkarşısında işe yarayacağının garantisi yok.
+Dialogue: 20,0:15:49.28,0:15:53.89,Default,,0,0,0,,Bu, Bahşedici'nin kişiliğine ve\NEşyadigar'ını nasıl kullandığına bağlı.
+Dialogue: 20,0:15:54.64,0:15:58.90,Default,,0,0,0,,Değer verdikleri eşyaların gücünü tamamen\Naçığa çıkartmaya çekinmeyenler ofansifliğe...
+Dialogue: 20,0:15:59.32,0:16:05.04,Default,,0,0,0,,...onlara hiç zarar gelmesin isteyenlerse\Ndefansifliğe daha yatkın oluyor.
+Dialogue: 20,0:16:05.81,0:16:10.03,Default,,0,0,0,,Eşyana yüklediğin değer gerçekten \No kadar fark yaratıyor mu?
+Dialogue: 20,0:16:10.03,0:16:11.41,Default,,0,0,0,,Vay anasını...
+Dialogue: 20,0:16:11.75,0:16:13.69,Default,,0,0,0,,Daha çok Bahşedici görmek istiyorum.
+Dialogue: 20,0:16:14.95,0:16:16.79,Default,,0,0,0,,İlgini daha bi' çekti, di' mi?
+Dialogue: 20,0:16:16.79,0:16:21.97,Default,,0,0,0,,Merak etme, gelen çocukların hepsinde\Nkendilerine özgün eşyalar var.
+Dialogue: 20,0:16:22.38,0:16:24.09,Default,,0,0,0,,Gelen çocuklar mı?
+Dialogue: 20,0:16:24.09,0:16:25.44,Default,,0,0,0,,Bam!
+Dialogue: 20,0:16:26.35,0:16:28.68,Default,,0,0,0,,Sonunda vardık!
+Dialogue: 20,0:16:29.43,0:16:31.34,Default,,0,0,0,,Çocuk Temizlikçiler...
+Dialogue: 20,0:16:31.34,0:16:33.43,Default,,0,0,0,,...ortama girdi!
+Dialogue: 20,0:16:33.43,0:16:35.10,Default,,0,0,0,,Selam herkese.
+Dialogue: 20,0:16:35.10,0:16:38.48,Default,,0,0,0,,Geciktik, kusura bakmayın.
+Dialogue: 20,0:16:38.48,0:16:40.04,Default,,0,0,0,,Hoş geldiniz.
+Dialogue: 20,0:16:51.08,0:16:54.19,Default,,0,0,0,,Ne bakıyo'n götoş! Bugün zırnık koklatmam!
+Dialogue: 20,0:16:55.83,0:16:56.58,Default,,0,0,0,,Rudo burada!
+Dialogue: 20,0:16:57.13,0:16:58.53,Default,,0,0,0,,Tekrar merhaba!
+Dialogue: 20,0:17:00.74,0:17:01.73,Default,,0,0,0,,Sen kimdin?
+Dialogue: 20,0:17:03.09,0:17:05.55,Default,,0,0,0,,Yoksa hatırlamıyor musun?
+Dialogue: 20,0:17:06.16,0:17:09.96,Default,,0,0,0,,Karargaha ilk geldiğin gün karşılaşmıştık ya.
+Dialogue: 20,0:17:11.95,0:17:14.05,Default,,0,0,0,,Hatırlamıyo' ki...
+Dialogue: 20,0:17:14.41,0:17:17.31,Default,,0,0,0,,Kusura bakma, tanışma fırsatımız olmadı.
+Dialogue: 20,0:17:17.31,0:17:20.43,Default,,0,0,0,,Bu çocuk Guita Hebby Fantazya.
+Dialogue: 20,0:17:21.77,0:17:25.18,Default,,0,0,0,,Dear Santa'yla tanıştınız sanırım.
+Dialogue: 20,0:17:26.69,0:17:32.82,Default,,0,0,0,,Ben de Çocuklar'ın lideri...\NDaha doğrusu, sorumluları Bro Santa.
+Dialogue: 20,0:17:32.82,0:17:37.77,Default,,0,0,0,,Takımın diğer üyesiyle de\Niyi geçinirsin umarım.
+Dialogue: 20,0:17:37.77,0:17:40.21,Default,,0,0,0,,Aynen! İyi arkadaş olalım!
+Dialogue: 20,0:17:41.95,0:17:44.37,Default,,0,0,0,,Yukarısı nasıl, anlatır mısın?
+Dialogue: 20,0:17:44.37,0:17:46.59,Default,,0,0,0,,Çekil! Çekil!
+Dialogue: 20,0:17:46.88,0:17:50.84,Default,,0,0,0,,Guita, bu konuyu üs dışında açma.
+Dialogue: 20,0:17:50.84,0:17:52.68,Default,,0,0,0,,Ne? Niye?
+Dialogue: 20,0:17:52.68,0:17:56.14,Default,,0,0,0,,Burnu keskin olanlar kokusunu alabilir.
+Dialogue: 20,0:17:56.81,0:17:59.08,Default,,0,0,0,,Dünkü haşerelerin dediğine göre...
+Dialogue: 20,0:17:59.08,0:18:03.35,Default,,0,0,0,,...Rudo'yu bardaki birinden öğrenmişler.
+Dialogue: 20,0:18:04.67,0:18:08.82,Default,,0,0,0,,Sessizce yaklaşıp bu bilginin olduğu bir kağıt uzatmış.
+Dialogue: 20,0:18:09.98,0:18:11.11,Default,,0,0,0,,Karşılıksız.
+Dialogue: 20,0:18:13.33,0:18:19.70,Default,,0,0,0,,Muhtemelen kendilerini riske atmadan karargahın\Nsavunması hakkında bilgi almak istediler.
+Dialogue: 20,0:18:19.70,0:18:22.78,Default,,0,0,0,,Söylesene, en sevdiğin kaiju ne?
+Dialogue: 20,0:18:22.78,0:18:24.81,Default,,0,0,0,,Kişisel alan diye bir şey duydun mu?
+Dialogue: 20,0:18:24.81,0:18:28.49,Default,,0,0,0,,Rudo! Kaijular hakkında konuşalım!
+Dialogue: 20,0:18:26.56,0:18:28.49,Default,,0,0,0,,Düş oğlum yakamdan! Çekil az!
+Dialogue: 20,0:18:28.49,0:18:30.92,Default,,0,0,0,,Kancıkça bir yaklaşım.
+Dialogue: 20,0:18:30.92,0:18:34.09,Default,,0,0,0,,Bence yine Haydutların işi.
+Dialogue: 20,0:18:34.09,0:18:36.52,Default,,0,0,0,,Mümkün.
+Dialogue: 20,0:18:36.52,0:18:39.97,Default,,0,0,0,,Şu anki Haydutların fazla\Nısrarcı olduğunu duydum.
+Dialogue: 20,0:18:44.85,0:18:47.78,Default,,0,0,0,,Hepsi kontak arkadaş.
+Dialogue: 20,0:18:47.78,0:18:50.32,Default,,0,0,0,,Biraz daha ihtiyatlı olun diyoruz.
+Dialogue: 20,0:18:50.32,0:18:54.31,Default,,0,0,0,,N'olmuş? Başınızda bir bela mı var?
+Dialogue: 20,0:18:55.45,0:18:56.68,Default,,0,0,0,,Bilmiyorum ki.
+Dialogue: 20,0:18:56.68,0:18:58.44,Default,,0,0,0,,Yağmacılar falan galiba.
+Dialogue: 20,0:18:58.44,0:18:59.65,Default,,0,0,0,,Yağmacı mı?
+Dialogue: 20,0:18:59.65,0:19:01.71,Default,,0,0,0,,Yoksa Haydutları mı diyorsun?
+Dialogue: 20,0:19:01.71,0:19:05.04,Default,,0,0,0,,Onlar başınıza bela olabilir bak.
+Dialogue: 20,0:19:05.04,0:19:11.07,Default,,0,0,0,,Şu sıralar köşe bucak aradıkları\Nbir şey olduğunu duydum.
+Dialogue: 20,0:19:11.07,0:19:13.42,Default,,0,0,0,,Ne demişlerdi, hatırlıyor musun?
+Dialogue: 20,0:19:13.42,0:19:14.55,Default,,0,0,0,,Bilmem.
+Dialogue: 20,0:19:14.55,0:19:16.87,Default,,0,0,0,,Dikkatli ol kardeş.
+Dialogue: 20,0:19:16.87,0:19:18.78,Default,,0,0,0,,Yeni reisleri de tekin değil.
+Dialogue: 20,0:19:18.78,0:19:22.56,Default,,0,0,0,,İstediklerini elde etmek için\Nher şeyi göze alır onlar.
+Dialogue: 20,0:19:22.56,0:19:26.56,Default,,0,0,0,,Duyduğum kadarıyla pek bi' inatçılarmış.
+Dialogue: 20,0:19:26.56,0:19:30.57,Default,,0,0,0,,Dikkatli olmazsanız elinizdeki her şeyi alırlar.
+Dialogue: 20,0:19:31.31,0:19:33.84,Default,,0,0,0,,Doğru ya, şimdi hatırladım.
+Dialogue: 20,0:19:33.84,0:19:36.45,Default,,0,0,0,,Üstünde bu olan şeyler arıyorlardı.
+Dialogue: 20,0:19:48.93,0:19:50.25,Default,,0,0,0,,Şu bilgi yeter.
+Dialogue: 20,0:19:51.05,0:19:54.67,Default,,0,0,0,,Haydutların yeni lideri olduğumu\Nkarşılık beklemeden söylüyorum.
+Dialogue: 20,0:19:59.01,0:20:02.01,Default,,0,0,0,,{\i1}Hava durumu başlıyor!
+Dialogue: 20,0:20:02.01,0:20:07.94,Default,,0,0,0,,{\i1}Tüm hafta bas bas bağırdım!\NBüyük bir fırtına yolda!
+Dialogue: 20,0:20:07.94,0:20:09.83,Default,,0,0,0,,{\i1\an8}Çöp fırtınası geliyor!
+Dialogue: 20,0:20:08.83,0:20:12.32,Default,,0,0,0,,Hava durumunu her gün takip etmek gerek.
+Dialogue: 20,0:20:09.83,0:20:12.32,Default,,0,0,0,,{\i1\an8}Dışarı çıkmayın ve fırtınanın dinmesini bekleyin!
+Dialogue: 20,0:20:12.32,0:20:16.75,Default,,0,0,0,,Yüzyılın fırtınası bile olsa\Nhazırlıklı olmak mümkün.
+Dialogue: 20,0:20:44.64,0:20:46.98,Default,,0,0,0,,Temizlikçileri aldım!
+Dialogue: 20,0:20:48.98,0:20:51.14,Default,,0,0,0,,Lanet olsun! Yetişemedik!
+Dialogue: 20,0:20:51.14,0:20:54.15,Default,,0,0,0,,Ne? Ödemeden kaçtılar mı?
+Dialogue: 20,0:21:02.78,0:21:05.79,Default,,0,0,0,,Siktir! Yemeğin ortasında yapılır mı bu?
+Dialogue: 20,0:21:05.79,0:21:08.02,Default,,0,0,0,,{\an8}Acıttı!
+Dialogue: 20,0:21:05.79,0:21:08.02,Default,,0,0,0,,Daha tatlılara geçmemiştik!
+Dialogue: 20,0:21:08.02,0:21:09.54,Default,,0,0,0,,Gel de sövme.
+Dialogue: 20,0:21:09.54,0:21:12.83,Default,,0,0,0,,Haydutların böyle açık oynayacağını düşünmemiştim.
+Dialogue: 20,0:21:12.83,0:21:15.59,Default,,0,0,0,,Neredeyiz? Bizi nereye ışınladılar?
+Dialogue: 20,0:21:15.59,0:21:17.81,Default,,0,0,0,,Destek birimi geride kaldı.
+Dialogue: 20,0:21:17.81,0:21:21.08,Default,,0,0,0,,Rögarlı Bahşedici'nin gücü değil miydi bu?
+Dialogue: 20,0:21:21.08,0:21:22.97,Default,,0,0,0,,Harbiden kullanışlı bir güç.
+Dialogue: 20,0:21:28.32,0:21:29.32,Default,,0,0,0,,Ru-
+Dialogue: 20,0:22:06.20,0:22:09.03,Default,,0,0,0,,Amo'ya ne yaptınız?
+Comment: 0,0:00:00.00,0:00:00.02,vuatsigns,,0,0,0,,{yd}
+Dialogue: 0,0:06:05.60,0:06:09.22,vuatsigns,,0,0,0,,{\pos(960,390.8)\fs55\shad1\alpha&H80&\blur8}Bölüm 14
+Dialogue: 0,0:06:05.60,0:06:09.22,vuatsigns,,0,0,0,,{\pos(960,390.8)\fs55\shad1\alpha&H80&\blur3}Bölüm 14
+Dialogue: 1,0:06:05.60,0:06:09.22,vuatsigns,,0,0,0,,{\pos(960,390.8)\fs55\blur0.6}Bölüm 14
+Dialogue: 0,0:06:05.60,0:06:09.22,vuatsigns,,0,0,0,,{\pos(960,522.7)\fs65\fsp5\alpha&H80&\blur8}FIRTINA ÖNCESİ FIRTINA
+Dialogue: 0,0:06:05.60,0:06:09.22,vuatsigns,,0,0,0,,{\pos(960,522.7)\fs65\fsp5\alpha&H80&\blur8}FIRTINA ÖNCESİ FIRTINA
+Dialogue: 1,0:06:05.60,0:06:09.22,vuatsigns,,0,0,0,,{\pos(960,522.7)\fs65\fsp5\blur0.6}FIRTINA ÖNCESİ FIRTINA
+Comment: 0,0:01:31.99,0:03:01.95,vuatsigns,,0,0,0,,{OP}
+Dialogue: 0,0:01:43.79,0:01:45.79,OP02,,0,0,0,,{\fnMom´sTypewriter\b0\fad(277,277)\fs-2}"Kulağınız var duymuyorsunuz, gözünüz var görmüyorsunuz!"
+Dialogue: 0,0:01:45.79,0:01:48.38,OP02,,0,0,0,,{\fnMom´sTypewriter\b0\fad(277,277)\fs-2}"Değersiz et yığınları sizi!"
+Dialogue: 0,0:01:48.38,0:01:49.30,OP02,,0,0,0,,{\fnMom´sTypewriter\b0\fs-2}"Bu yüzden hepinizi cehenneme yollayacağım!"
+Dialogue: 0,0:01:49.30,0:01:49.80,OP02,,0,0,0,,{\fnAggressive Angry Baby Killer\b0\c&H1A1BFF&\4c&H9090FF&\4a&H00&\fs+1}Bu yüzden hepinizi cehenneme yollayacağım!
+Dialogue: 0,0:01:49.80,0:01:50.22,OP02,,0,0,0,,{\fnAggressive Angry Baby Killer\b0\c&H2CA300&\4c&HF5FED0&\4a&H00&\fs+1}Bu yüzden hepinizi cehenneme yollayacağım!
+Dialogue: 0,0:01:50.22,0:01:50.88,OP02,,0,0,0,,{\fnAggressive Angry Baby Killer\b0\c&H42E8FD&\4c&H5B5B5B&\4a&H00&\fad(0,0)\fs+1}Bu yüzden hepinizi cehenneme yollayacağım!
+Dialogue: 0,0:01:50.88,0:01:52.01,OP02,,0,0,0,,{\fnMom´sTypewriter\b0\fad(0,444)\cH42E8FD\fs-2}"Her birinizi!"
+Dialogue: 0,0:01:53.01,0:01:53.05,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-9,268,2751,2751)\fs50\fsp3}G{\alpha&HFF&}örkemli bir iniş yaptım
+Dialogue: 0,0:01:53.05,0:01:53.09,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-51,226,2709,2709)\fs50\fsp3}Gö{\alpha&HFF&}rkemli bir iniş yaptım
+Dialogue: 0,0:01:53.09,0:01:53.13,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-92,185,2668,2668)\fs50\fsp3}Gör{\alpha&HFF&}kemli bir iniş yaptım
+Dialogue: 0,0:01:53.13,0:01:53.18,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-134,143,2626,2626)\fs50\fsp3}Görk{\alpha&HFF&}emli bir iniş yaptım
+Dialogue: 0,0:01:53.18,0:01:53.22,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-176,101,2584,2584)\fs50\fsp3}Görke{\alpha&HFF&}mli bir iniş yaptım
+Dialogue: 0,0:01:53.22,0:01:53.26,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-218,59,2542,2542)\fs50\fsp3}Görkem{\alpha&HFF&}li bir iniş yaptım
+Dialogue: 0,0:01:53.26,0:01:53.30,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-259,18,2501,2501)\fs50\fsp3}Görkeml{\alpha&HFF&}i bir iniş yaptım
+Dialogue: 0,0:01:53.30,0:01:53.34,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-301,-24,2459,2459)\fs50\fsp3}Görkemli{\alpha&HFF&} bir iniş yaptım
+Dialogue: 0,0:01:53.34,0:01:53.38,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-343,-66,2417,2417)\fs50\fsp3}Görkemli {\alpha&HFF&}bir iniş yaptım
+Dialogue: 0,0:01:53.38,0:01:53.43,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-384,-107,2376,2376)\fs50\fsp3}Görkemli b{\alpha&HFF&}ir iniş yaptım
+Dialogue: 0,0:01:53.43,0:01:53.47,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-426,-149,2334,2334)\fs50\fsp3}Görkemli bi{\alpha&HFF&}r iniş yaptım
+Dialogue: 0,0:01:53.47,0:01:53.51,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-468,-191,2292,2292)\fs50\fsp3}Görkemli bir{\alpha&HFF&} iniş yaptım
+Dialogue: 0,0:01:53.51,0:01:53.55,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-509,-232,2251,2251)\fs50\fsp3}Görkemli bir {\alpha&HFF&}iniş yaptım
+Dialogue: 0,0:01:53.55,0:01:53.59,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-551,-274,2209,2209)\fs50\fsp3}Görkemli bir i{\alpha&HFF&}niş yaptım
+Dialogue: 0,0:01:53.59,0:01:53.64,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-593,-316,2167,2167)\fs50\fsp3}Görkemli bir in{\alpha&HFF&}iş yaptım
+Dialogue: 0,0:01:53.64,0:01:53.68,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-635,-358,2125,2125)\fs50\fsp3}Görkemli bir ini{\alpha&HFF&}ş yaptım
+Dialogue: 0,0:01:53.68,0:01:53.72,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-676,-399,2084,2084)\fs50\fsp3}Görkemli bir iniş{\alpha&HFF&} yaptım
+Dialogue: 0,0:01:53.72,0:01:53.76,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-718,-441,2042,2042)\fs50\fsp3}Görkemli bir iniş {\alpha&HFF&}yaptım
+Dialogue: 0,0:01:53.76,0:01:53.80,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-760,-483,2000,2000)\fs50\fsp3}Görkemli bir iniş y{\alpha&HFF&}aptım
+Dialogue: 0,0:01:53.80,0:01:53.84,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-801,-524,1959,1959)\fs50\fsp3}Görkemli bir iniş ya{\alpha&HFF&}ptım
+Dialogue: 0,0:01:53.84,0:01:53.89,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-843,-566,1917,1917)\fs50\fsp3}Görkemli bir iniş yap{\alpha&HFF&}tım
+Dialogue: 0,0:01:53.89,0:01:53.93,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-885,-608,1875,1875)\fs50\fsp3}Görkemli bir iniş yapt{\alpha&HFF&}ım
+Dialogue: 0,0:01:53.93,0:01:53.97,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-927,-650,1833,1833)\fs50\fsp3}Görkemli bir iniş yaptı{\alpha&HFF&}m
+Dialogue: 0,0:01:53.97,0:01:55.76,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-968,-691,1792,1792)\fs50\fsp3}Görkemli bir iniş yaptım
+Dialogue: 0,0:01:55.76,0:01:55.80,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-2,-2,2324,2668)\fs50\fsp3}A{\alpha&HFF&}maç bu değildi
+Dialogue: 0,0:01:55.80,0:01:55.85,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-43,-43,2283,2627)\fs50\fsp3}Am{\alpha&HFF&}aç bu değildi
+Dialogue: 0,0:01:55.85,0:01:55.89,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-85,-85,2241,2585)\fs50\fsp3}Ama{\alpha&HFF&}ç bu değildi
+Dialogue: 0,0:01:55.89,0:01:55.93,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-127,-127,2199,2543)\fs50\fsp3}Amaç{\alpha&HFF&} bu değildi
+Dialogue: 0,0:01:55.93,0:01:55.97,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-169,-169,2157,2501)\fs50\fsp3}Amaç {\alpha&HFF&}bu değildi
+Dialogue: 0,0:01:55.97,0:01:56.01,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-210,-210,2116,2460)\fs50\fsp3}Amaç b{\alpha&HFF&}u değildi
+Dialogue: 0,0:01:56.01,0:01:56.05,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-252,-252,2074,2418)\fs50\fsp3}Amaç bu{\alpha&HFF&} değildi
+Dialogue: 0,0:01:56.05,0:01:56.10,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-294,-294,2032,2376)\fs50\fsp3}Amaç bu {\alpha&HFF&}değildi
+Dialogue: 0,0:01:56.10,0:01:56.14,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-335,-335,1991,2335)\fs50\fsp3}Amaç bu d{\alpha&HFF&}eğildi
+Dialogue: 0,0:01:56.14,0:01:56.18,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-377,-377,1949,2293)\fs50\fsp3}Amaç bu de{\alpha&HFF&}ğildi
+Dialogue: 0,0:01:56.18,0:01:56.22,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-419,-419,1907,2251)\fs50\fsp3}Amaç bu değ{\alpha&HFF&}ildi
+Dialogue: 0,0:01:56.22,0:01:56.26,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-461,-461,1865,2209)\fs50\fsp3}Amaç bu deği{\alpha&HFF&}ldi
+Dialogue: 0,0:01:56.26,0:01:56.30,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-502,-502,1824,2168)\fs50\fsp3}Amaç bu değil{\alpha&HFF&}di
+Dialogue: 0,0:01:56.30,0:01:56.35,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-544,-544,1782,2126)\fs50\fsp3}Amaç bu değild{\alpha&HFF&}i
+Dialogue: 0,0:01:56.35,0:01:58.43,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-586,-586,1740,2084)\fs50\fsp3}Amaç bu değildi
+Dialogue: 0,0:01:58.43,0:01:58.47,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}A{\alpha&HFF&}lelade bir tipimdir
+Dialogue: 0,0:01:58.47,0:01:58.51,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Al{\alpha&HFF&}elade bir tipimdir
+Dialogue: 0,0:01:58.51,0:01:58.56,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Ale{\alpha&HFF&}lade bir tipimdir
+Dialogue: 0,0:01:58.56,0:01:58.60,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Alel{\alpha&HFF&}ade bir tipimdir
+Dialogue: 0,0:01:58.60,0:01:58.64,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Alela{\alpha&HFF&}de bir tipimdir
+Dialogue: 0,0:01:58.64,0:01:58.68,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Alelad{\alpha&HFF&}e bir tipimdir
+Dialogue: 0,0:01:58.68,0:01:58.72,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Alelade{\alpha&HFF&} bir tipimdir
+Dialogue: 0,0:01:58.72,0:01:58.77,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Alelade {\alpha&HFF&}bir tipimdir
+Dialogue: 0,0:01:58.77,0:01:58.81,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Alelade b{\alpha&HFF&}ir tipimdir
+Dialogue: 0,0:01:58.81,0:01:58.85,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Alelade bi{\alpha&HFF&}r tipimdir
+Dialogue: 0,0:01:58.85,0:01:58.89,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Alelade bir{\alpha&HFF&} tipimdir
+Dialogue: 0,0:01:58.89,0:01:58.93,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Alelade bir {\alpha&HFF&}tipimdir
+Dialogue: 0,0:01:58.93,0:01:58.97,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Alelade bir t{\alpha&HFF&}ipimdir
+Dialogue: 0,0:01:58.97,0:01:59.02,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Alelade bir ti{\alpha&HFF&}pimdir
+Dialogue: 0,0:01:59.02,0:01:59.06,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Alelade bir tip{\alpha&HFF&}imdir
+Dialogue: 0,0:01:59.06,0:01:59.10,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Alelade bir tipi{\alpha&HFF&}mdir
+Dialogue: 0,0:01:59.10,0:01:59.14,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Alelade bir tipim{\alpha&HFF&}dir
+Dialogue: 0,0:01:59.14,0:01:59.18,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Alelade bir tipimd{\alpha&HFF&}ir
+Dialogue: 0,0:01:59.18,0:01:59.22,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Alelade bir tipimdi{\alpha&HFF&}r
+Dialogue: 0,0:01:59.22,0:02:01.00,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Alelade bir tipimdir
+Dialogue: 0,0:02:01.02,0:02:01.06,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-17,-17,1279,1623)\fs50\fsp3}T{\alpha&HFF&}anıma boşver
+Dialogue: 0,0:02:01.06,0:02:01.10,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-59,-59,1237,1581)\fs50\fsp3}Ta{\alpha&HFF&}nıma boşver
+Dialogue: 0,0:02:01.10,0:02:01.14,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-100,-100,1196,1540)\fs50\fsp3}Tan{\alpha&HFF&}ıma boşver
+Dialogue: 0,0:02:01.14,0:02:01.18,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-142,-142,1154,1498)\fs50\fsp3}Tanı{\alpha&HFF&}ma boşver
+Dialogue: 0,0:02:01.18,0:02:01.23,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-184,-184,1112,1456)\fs50\fsp3}Tanım{\alpha&HFF&}a boşver
+Dialogue: 0,0:02:01.23,0:02:01.27,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-226,-226,1070,1414)\fs50\fsp3}Tanıma{\alpha&HFF&} boşver
+Dialogue: 0,0:02:01.27,0:02:01.31,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-267,-267,1029,1373)\fs50\fsp3}Tanıma {\alpha&HFF&}boşver
+Dialogue: 0,0:02:01.31,0:02:01.35,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-309,-309,987,1331)\fs50\fsp3}Tanıma b{\alpha&HFF&}oşver
+Dialogue: 0,0:02:01.35,0:02:01.39,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-351,-351,945,1289)\fs50\fsp3}Tanıma bo{\alpha&HFF&}şver
+Dialogue: 0,0:02:01.39,0:02:01.43,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-392,-392,904,1248)\fs50\fsp3}Tanıma boş{\alpha&HFF&}ver
+Dialogue: 0,0:02:01.43,0:02:01.48,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-434,-434,862,1206)\fs50\fsp3}Tanıma boşv{\alpha&HFF&}er
+Dialogue: 0,0:02:01.48,0:02:01.52,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-476,-476,820,1164)\fs50\fsp3}Tanıma boşve{\alpha&HFF&}r
+Dialogue: 0,0:02:01.52,0:02:02.64,OP02,,0,0,0,,{\fnUnispace\fade(255,0,255,-517,-517,779,1123)\fs50\fsp3}Tanıma boşver
+Dialogue: 0,0:02:02.64,0:02:02.64,OP02,,0,0,0,,{\c&H000000&\t(-4,245,2,\c&HFFFFFF&)}Y{\alpha&HFF&}itmiş gitmiş bir zincir, delirmiş, ödeyecek biri
+Dialogue: 0,0:02:02.64,0:02:02.64,OP02,,0,0,0,,{\c&H000000&\t(-4,245,2,\c&HFFFFFF&)}Yi{\alpha&HFF&}tmiş gitmiş bir zincir, delirmiş, ödeyecek biri
+Dialogue: 0,0:02:02.64,0:02:02.69,OP02,,0,0,0,,{\c&H000000&\t(-4,245,2,\c&HFFFFFF&)}Yit{\alpha&HFF&}miş gitmiş bir zincir, delirmiş, ödeyecek biri
+Dialogue: 0,0:02:02.69,0:02:02.69,OP02,,0,0,0,,{\c&H000000&\t(-45,204,2,\c&HFFFFFF&)}Yitm{\alpha&HFF&}iş gitmiş bir zincir, delirmiş, ödeyecek biri
+Dialogue: 0,0:02:02.69,0:02:02.73,OP02,,0,0,0,,{\c&H000000&\t(-45,204,2,\c&HFFFFFF&)}Yitmi{\alpha&HFF&}ş gitmiş bir zincir, delirmiş, ödeyecek biri
+Dialogue: 0,0:02:02.73,0:02:02.73,OP02,,0,0,0,,{\c&H000000&\t(-87,162,2,\c&HFFFFFF&)}Yitmiş{\alpha&HFF&} gitmiş bir zincir, delirmiş, ödeyecek biri
+Dialogue: 0,0:02:02.73,0:02:02.77,OP02,,0,0,0,,{\c&H000000&\t(-87,162,2,\c&HFFFFFF&)}Yitmiş {\alpha&HFF&}gitmiş bir zincir, delirmiş, ödeyecek biri
+Dialogue: 0,0:02:02.77,0:02:02.77,OP02,,0,0,0,,{\c&H000000&\t(-129,120,2,\c&HFFFFFF&)}Yitmiş g{\alpha&HFF&}itmiş bir zincir, delirmiş, ödeyecek biri
+Dialogue: 0,0:02:02.77,0:02:02.81,OP02,,0,0,0,,{\c&H000000&\t(-129,120,2,\c&HFFFFFF&)}Yitmiş gi{\alpha&HFF&}tmiş bir zincir, delirmiş, ödeyecek biri
+Dialogue: 0,0:02:02.81,0:02:02.81,OP02,,0,0,0,,{\c&H000000&\t(-170,79,2,\c&HFFFFFF&)}Yitmiş git{\alpha&HFF&}miş bir zincir, delirmiş, ödeyecek biri
+Dialogue: 0,0:02:02.81,0:02:02.81,OP02,,0,0,0,,{\c&H000000&\t(-170,79,2,\c&HFFFFFF&)}Yitmiş gitm{\alpha&HFF&}iş bir zincir, delirmiş, ödeyecek biri
+Dialogue: 0,0:02:02.81,0:02:02.85,OP02,,0,0,0,,{\c&H000000&\t(-170,79,2,\c&HFFFFFF&)}Yitmiş gitmi{\alpha&HFF&}ş bir zincir, delirmiş, ödeyecek biri
+Dialogue: 0,0:02:02.85,0:02:02.85,OP02,,0,0,0,,{\c&H000000&\t(-212,37,2,\c&HFFFFFF&)}Yitmiş gitmiş{\alpha&HFF&} bir zincir, delirmiş, ödeyecek biri
+Dialogue: 0,0:02:02.85,0:02:02.89,OP02,,0,0,0,,{\c&H000000&\t(-212,37,2,\c&HFFFFFF&)}Yitmiş gitmiş {\alpha&HFF&}bir zincir, delirmiş, ödeyecek biri
+Dialogue: 0,0:02:02.89,0:02:02.89,OP02,,0,0,0,,{\c&H000000&\t(-254,-5,2,\c&HFFFFFF&)}Yitmiş gitmiş b{\alpha&HFF&}ir zincir, delirmiş, ödeyecek biri
+Dialogue: 0,0:02:02.89,0:02:02.94,OP02,,0,0,0,,{\c&H000000&\t(-254,-5,2,\c&HFFFFFF&)}Yitmiş gitmiş bi{\alpha&HFF&}r zincir, delirmiş, ödeyecek biri
+Dialogue: 0,0:02:02.94,0:02:02.94,OP02,,0,0,0,,{\c&H000000&\t(-296,-47,2,\c&HFFFFFF&)}Yitmiş gitmiş bir{\alpha&HFF&} zincir, delirmiş, ödeyecek biri
+Dialogue: 0,0:02:02.94,0:02:02.98,OP02,,0,0,0,,{\c&H000000&\t(-296,-47,2,\c&HFFFFFF&)}Yitmiş gitmiş bir {\alpha&HFF&}zincir, delirmiş, ödeyecek biri
+Dialogue: 0,0:02:02.98,0:02:02.98,OP02,,0,0,0,,{\c&H000000&\t(-337,-88,2,\c&HFFFFFF&)}Yitmiş gitmiş bir z{\alpha&HFF&}incir, delirmiş, ödeyecek biri
+Dialogue: 0,0:02:02.98,0:02:02.98,OP02,,0,0,0,,{\c&H000000&\t(-337,-88,2,\c&HFFFFFF&)}Yitmiş gitmiş bir zi{\alpha&HFF&}ncir, delirmiş, ödeyecek biri
+Dialogue: 0,0:02:02.98,0:02:03.02,OP02,,0,0,0,,{\c&H000000&\t(-337,-88,2,\c&HFFFFFF&)}Yitmiş gitmiş bir zin{\alpha&HFF&}cir, delirmiş, ödeyecek biri
+Dialogue: 0,0:02:03.02,0:02:03.02,OP02,,0,0,0,,{\c&H000000&\t(-379,-130,2,\c&HFFFFFF&)}Yitmiş gitmiş bir zinc{\alpha&HFF&}ir, delirmiş, ödeyecek biri
+Dialogue: 0,0:02:03.02,0:02:03.06,OP02,,0,0,0,,{\c&H000000&\t(-379,-130,2,\c&HFFFFFF&)}Yitmiş gitmiş bir zinci{\alpha&HFF&}r, delirmiş, ödeyecek biri
+Dialogue: 0,0:02:03.06,0:02:03.06,OP02,,0,0,0,,{\c&H000000&\t(-421,-172,2,\c&HFFFFFF&)}Yitmiş gitmiş bir zincir{\alpha&HFF&}, delirmiş, ödeyecek biri
+Dialogue: 0,0:02:03.06,0:02:03.10,OP02,,0,0,0,,{\c&H000000&\t(-421,-172,2,\c&HFFFFFF&)}Yitmiş gitmiş bir zincir,{\alpha&HFF&} delirmiş, ödeyecek biri
+Dialogue: 0,0:02:03.10,0:02:03.10,OP02,,0,0,0,,{\c&H000000&\t(-462,-213,2,\c&HFFFFFF&)}Yitmiş gitmiş bir zincir, {\alpha&HFF&}delirmiş, ödeyecek biri
+Dialogue: 0,0:02:03.10,0:02:03.14,OP02,,0,0,0,,{\c&H000000&\t(-462,-213,2,\c&HFFFFFF&)}Yitmiş gitmiş bir zincir, d{\alpha&HFF&}elirmiş, ödeyecek biri
+Dialogue: 0,0:02:03.14,0:02:03.14,OP02,,0,0,0,,{\c&H000000&\t(-504,-255,2,\c&HFFFFFF&)}Yitmiş gitmiş bir zincir, de{\alpha&HFF&}lirmiş, ödeyecek biri
+Dialogue: 0,0:02:03.14,0:02:03.19,OP02,,0,0,0,,{\c&H000000&\t(-504,-255,2,\c&HFFFFFF&)}Yitmiş gitmiş bir zincir, del{\alpha&HFF&}irmiş, ödeyecek biri
+Dialogue: 0,0:02:03.19,0:02:03.19,OP02,,0,0,0,,{\c&H000000&\t(-546,-297,2,\c&HFFFFFF&)}Yitmiş gitmiş bir zincir, deli{\alpha&HFF&}rmiş, ödeyecek biri
+Dialogue: 0,0:02:03.19,0:02:03.19,OP02,,0,0,0,,{\c&H000000&\t(-546,-297,2,\c&HFFFFFF&)}Yitmiş gitmiş bir zincir, delir{\alpha&HFF&}miş, ödeyecek biri
+Dialogue: 0,0:02:03.19,0:02:03.23,OP02,,0,0,0,,{\c&H000000&\t(-546,-297,2,\c&HFFFFFF&)}Yitmiş gitmiş bir zincir, delirm{\alpha&HFF&}iş, ödeyecek biri
+Dialogue: 0,0:02:03.23,0:02:03.23,OP02,,0,0,0,,{\c&H000000&\t(-588,-339,2,\c&HFFFFFF&)}Yitmiş gitmiş bir zincir, delirmi{\alpha&HFF&}ş, ödeyecek biri
+Dialogue: 0,0:02:03.23,0:02:03.27,OP02,,0,0,0,,{\c&H000000&\t(-588,-339,2,\c&HFFFFFF&)}Yitmiş gitmiş bir zincir, delirmiş{\alpha&HFF&}, ödeyecek biri
+Dialogue: 0,0:02:03.27,0:02:03.27,OP02,,0,0,0,,{\c&H000000&\t(-629,-380,2,\c&HFFFFFF&)}Yitmiş gitmiş bir zincir, delirmiş,{\alpha&HFF&} ödeyecek biri
+Dialogue: 0,0:02:03.27,0:02:03.31,OP02,,0,0,0,,{\c&H000000&\t(-629,-380,2,\c&HFFFFFF&)}Yitmiş gitmiş bir zincir, delirmiş, {\alpha&HFF&}ödeyecek biri
+Dialogue: 0,0:02:03.31,0:02:03.31,OP02,,0,0,0,,{\c&H000000&\t(-671,-422,2,\c&HFFFFFF&)}Yitmiş gitmiş bir zincir, delirmiş, ö{\alpha&HFF&}deyecek biri
+Dialogue: 0,0:02:03.31,0:02:03.35,OP02,,0,0,0,,{\c&H000000&\t(-671,-422,2,\c&HFFFFFF&)}Yitmiş gitmiş bir zincir, delirmiş, öd{\alpha&HFF&}eyecek biri
+Dialogue: 0,0:02:03.35,0:02:03.35,OP02,,0,0,0,,{\c&H000000&\t(-713,-464,2,\c&HFFFFFF&)}Yitmiş gitmiş bir zincir, delirmiş, öde{\alpha&HFF&}yecek biri
+Dialogue: 0,0:02:03.35,0:02:03.35,OP02,,0,0,0,,{\c&H000000&\t(-713,-464,2,\c&HFFFFFF&)}Yitmiş gitmiş bir zincir, delirmiş, ödey{\alpha&HFF&}ecek biri
+Dialogue: 0,0:02:03.35,0:02:03.39,OP02,,0,0,0,,{\c&H000000&\t(-713,-464,2,\c&HFFFFFF&)}Yitmiş gitmiş bir zincir, delirmiş, ödeye{\alpha&HFF&}cek biri
+Dialogue: 0,0:02:03.39,0:02:03.39,OP02,,0,0,0,,{\c&H000000&\t(-754,-505,2,\c&HFFFFFF&)}Yitmiş gitmiş bir zincir, delirmiş, ödeyec{\alpha&HFF&}ek biri
+Dialogue: 0,0:02:03.39,0:02:03.44,OP02,,0,0,0,,{\c&H000000&\t(-754,-505,2,\c&HFFFFFF&)}Yitmiş gitmiş bir zincir, delirmiş, ödeyece{\alpha&HFF&}k biri
+Dialogue: 0,0:02:03.44,0:02:03.44,OP02,,0,0,0,,{\c&H000000&\t(-796,-547,2,\c&HFFFFFF&)}Yitmiş gitmiş bir zincir, delirmiş, ödeyecek{\alpha&HFF&} biri
+Dialogue: 0,0:02:03.44,0:02:03.48,OP02,,0,0,0,,{\c&H000000&\t(-796,-547,2,\c&HFFFFFF&)}Yitmiş gitmiş bir zincir, delirmiş, ödeyecek {\alpha&HFF&}biri
+Dialogue: 0,0:02:03.48,0:02:03.48,OP02,,0,0,0,,{\c&H000000&\t(-838,-589,2,\c&HFFFFFF&)}Yitmiş gitmiş bir zincir, delirmiş, ödeyecek b{\alpha&HFF&}iri
+Dialogue: 0,0:02:03.48,0:02:03.52,OP02,,0,0,0,,{\c&H000000&\t(-838,-589,2,\c&HFFFFFF&)}Yitmiş gitmiş bir zincir, delirmiş, ödeyecek bi{\alpha&HFF&}ri
+Dialogue: 0,0:02:03.52,0:02:03.52,OP02,,0,0,0,,{\c&H000000&\t(-879,-630,2,\c&HFFFFFF&)}Yitmiş gitmiş bir zincir, delirmiş, ödeyecek bir{\alpha&HFF&}i
+Dialogue: 0,0:02:03.52,0:02:03.56,OP02,,0,0,0,,{\c&H000000&\t(-879,-630,2,\c&HFFFFFF&)}Yitmiş gitmiş bir zincir, delirmiş, ödeyecek biri
+Dialogue: 0,0:02:03.56,0:02:04.23,OP02,,0,0,0,,{\c&&H2CA300&&\t(0,249,2,\c&HFFFFFF&)}Yitmiş gitmiş bir zincir, delirmiş, ödeyecek biri
+Dialogue: 0,0:02:04.23,0:02:04.90,OP02,,0,0,0,,{\c&H977028&\t(0,249,2,\c&HFFFFFF&)}Yitmiş gitmiş bir zincir, delirmiş, ödeyecek biri
+Dialogue: 0,0:02:04.90,0:02:05.92,OP02,,0,0,0,,{\c&H493E34&\t(0,249,2,\c&HFFFFFF&)}Yitmiş gitmiş bir zincir, delirmiş, ödeyecek biri
+Dialogue: 0,0:02:05.92,0:02:06.23,OP02,,0,0,0,,{\c&H000000&\t(0,249,2,\c&HFFFFFF&)}Ben ki acı çekmiş, alay edilmiş, ehli değilim
+Dialogue: 0,0:02:06.23,0:02:06.94,OP02,,0,0,0,,{\c&&H2CA300&&\t(0,249,2,\c&HFFFFFF&)}Ben ki acı çekmiş, alay edilmiş, ehli değilim
+Dialogue: 0,0:02:06.94,0:02:07.52,OP02,,0,0,0,,{\c&H977028&\t(0,249,2,\c&HFFFFFF&)}Ben ki acı çekmiş, alay edilmiş, ehli değilim
+Dialogue: 0,0:02:07.52,0:02:08.82,OP02,,0,0,0,,{\c&H493E34&\t(0,249,2,\c&HFFFFFF&)}Ben ki acı çekmiş, alay edilmiş, ehli değilim
+Dialogue: 0,0:02:08.82,0:02:08.86,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}D{\alpha&HFF&}eğersiz galiz bir dahi
+Dialogue: 0,0:02:08.86,0:02:08.90,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}De{\alpha&HFF&}ğersiz galiz bir dahi
+Dialogue: 0,0:02:08.90,0:02:08.94,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Değ{\alpha&HFF&}ersiz galiz bir dahi
+Dialogue: 0,0:02:08.94,0:02:08.98,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Değe{\alpha&HFF&}rsiz galiz bir dahi
+Dialogue: 0,0:02:08.98,0:02:09.03,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Değer{\alpha&HFF&}siz galiz bir dahi
+Dialogue: 0,0:02:09.03,0:02:09.07,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Değers{\alpha&HFF&}iz galiz bir dahi
+Dialogue: 0,0:02:09.07,0:02:09.11,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Değersi{\alpha&HFF&}z galiz bir dahi
+Dialogue: 0,0:02:09.11,0:02:09.15,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Değersiz{\alpha&HFF&} galiz bir dahi
+Dialogue: 0,0:02:09.15,0:02:09.19,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Değersiz {\alpha&HFF&}galiz bir dahi
+Dialogue: 0,0:02:09.19,0:02:09.23,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Değersiz g{\alpha&HFF&}aliz bir dahi
+Dialogue: 0,0:02:09.23,0:02:09.28,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Değersiz ga{\alpha&HFF&}liz bir dahi
+Dialogue: 0,0:02:09.28,0:02:09.32,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Değersiz gal{\alpha&HFF&}iz bir dahi
+Dialogue: 0,0:02:09.32,0:02:09.36,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Değersiz gali{\alpha&HFF&}z bir dahi
+Dialogue: 0,0:02:09.36,0:02:09.40,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Değersiz galiz{\alpha&HFF&} bir dahi
+Dialogue: 0,0:02:09.40,0:02:09.44,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Değersiz galiz {\alpha&HFF&}bir dahi
+Dialogue: 0,0:02:09.44,0:02:09.48,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Değersiz galiz b{\alpha&HFF&}ir dahi
+Dialogue: 0,0:02:09.48,0:02:09.53,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Değersiz galiz bi{\alpha&HFF&}r dahi
+Dialogue: 0,0:02:09.53,0:02:09.57,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Değersiz galiz bir{\alpha&HFF&} dahi
+Dialogue: 0,0:02:09.57,0:02:09.61,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Değersiz galiz bir {\alpha&HFF&}dahi
+Dialogue: 0,0:02:09.61,0:02:09.65,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Değersiz galiz bir d{\alpha&HFF&}ahi
+Dialogue: 0,0:02:09.65,0:02:09.69,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Değersiz galiz bir da{\alpha&HFF&}hi
+Dialogue: 0,0:02:09.69,0:02:09.73,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Değersiz galiz bir dah{\alpha&HFF&}i
+Dialogue: 0,0:02:09.73,0:02:11.19,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3}Değersiz galiz bir dahi
+Dialogue: 0,0:02:11.19,0:02:11.24,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3\t(2206,2596,0.6,\c&H09072E&)}B{\alpha&HFF&}en buyum işte
+Dialogue: 0,0:02:11.24,0:02:11.28,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3\t(2164,2554,0.6,\c&H09072E&)}Be{\alpha&HFF&}n buyum işte
+Dialogue: 0,0:02:11.28,0:02:11.32,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3\t(2123,2513,0.6,\c&H09072E&)}Ben{\alpha&HFF&} buyum işte
+Dialogue: 0,0:02:11.32,0:02:11.36,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3\t(2081,2471,0.6,\c&H09072E&)}Ben {\alpha&HFF&}buyum işte
+Dialogue: 0,0:02:11.36,0:02:11.40,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3\t(2039,2429,0.6,\c&H09072E&)}Ben b{\alpha&HFF&}uyum işte
+Dialogue: 0,0:02:11.40,0:02:11.44,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3\t(1998,2388,0.6,\c&H09072E&)}Ben bu{\alpha&HFF&}yum işte
+Dialogue: 0,0:02:11.44,0:02:11.49,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3\t(1956,2346,0.6,\c&H09072E&)}Ben buy{\alpha&HFF&}um işte
+Dialogue: 0,0:02:11.49,0:02:11.53,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3\t(1914,2304,0.6,\c&H09072E&)}Ben buyu{\alpha&HFF&}m işte
+Dialogue: 0,0:02:11.53,0:02:11.57,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3\t(1872,2262,0.6,\c&H09072E&)}Ben buyum{\alpha&HFF&} işte
+Dialogue: 0,0:02:11.57,0:02:11.61,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3\t(1831,2221,0.6,\c&H09072E&)}Ben buyum {\alpha&HFF&}işte
+Dialogue: 0,0:02:11.61,0:02:11.65,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3\t(1789,2179,0.6,\c&H09072E&)}Ben buyum i{\alpha&HFF&}şte
+Dialogue: 0,0:02:11.65,0:02:11.69,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3\t(1747,2137,0.6,\c&H09072E&)}Ben buyum iş{\alpha&HFF&}te
+Dialogue: 0,0:02:11.69,0:02:11.74,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3\t(1706,2096,0.6,\c&H09072E&)}Ben buyum işt{\alpha&HFF&}e
+Dialogue: 0,0:02:11.74,0:02:14.07,OP02,,0,0,0,,{\fnUnispace\fs50\fsp3\t(1664,2054,0.6,\c&H09072E&)}Ben buyum işte
+Dialogue: 0,0:02:14.07,0:02:16.91,OP02,,0,0,0,,{\fad(0,277)}Kabaran duygularla
+Dialogue: 0,0:02:16.91,0:02:19.24,OP02,,0,0,0,,{\fad(277,0)}Bahçe filizlenir ve hisler büyür
+Dialogue: 0,0:02:19.37,0:02:19.49,OP02,,0,0,0,,{\c&H713C1A&}Bahçe filizlenir ve hisler büyür
+Dialogue: 0,0:02:19.62,0:02:19.74,OP02,,0,0,0,,Bahçe filizlenir ve hisler büyür
+Dialogue: 0,0:02:19.87,0:02:19.99,OP02,,0,0,0,,{\c&H240144&}Bahçe filizlenir ve hisler büyür
+Dialogue: 0,0:02:20.12,0:02:20.25,OP02,,0,0,0,,Bahçe filizlenir ve hisler büyür
+Dialogue: 0,0:02:20.37,0:02:20.50,OP02,,0,0,0,,{\c&H713C1A&}Bahçe filizlenir ve hisler büyür
+Dialogue: 0,0:02:20.62,0:02:20.79,OP02,,0,0,0,,{\c&H240144&}Bahçe filizlenir ve hisler büyür
+Dialogue: 0,0:02:20.87,0:02:23.01,OP02,,0,0,0,,Bahçe filizlenir ve hisler {\fad(0,130)\t(\fs+1\fsp+2)}büyür
+Dialogue: 0,0:02:23.32,0:02:24.18,OP02,,0,0,0,,{\fnAggressive Angry Baby Killer\b0}Ayaklan!
+Dialogue: 0,0:02:24.18,0:02:26.88,OP02,,0,0,0,,{\fnAggressive Angry Baby Killer\b0\pos(670.7,60)}defol, seni çöp!
+Dialogue: 0,0:02:24.17,0:02:24.21,OP02,,0,0,0,,{\pos(1145,60)}E{\alpha&HFF&}öpte filizlenen umudu
+Dialogue: 0,0:02:24.21,0:02:24.25,OP02,,0,0,0,,{\pos(1145,60)}Ç{\alpha&HFF&}öpte filizlenen umudu
+Dialogue: 0,0:02:24.25,0:02:24.29,OP02,,0,0,0,,{\pos(1145,60)}ÇB{\alpha&HFF&}pte filizlenen umudu
+Dialogue: 0,0:02:24.29,0:02:24.33,OP02,,0,0,0,,{\pos(1145,60)}Çö{\alpha&HFF&}pte filizlenen umudu
+Dialogue: 0,0:02:24.33,0:02:24.37,OP02,,0,0,0,,{\pos(1145,60)}ÇöX{\alpha&HFF&}te filizlenen umudu
+Dialogue: 0,0:02:24.37,0:02:24.42,OP02,,0,0,0,,{\pos(1145,60)}Çöp{\alpha&HFF&}te filizlenen umudu
+Dialogue: 0,0:02:24.42,0:02:24.46,OP02,,0,0,0,,{\pos(1145,60)}Çöp {\alpha&HFF&}e filizlenen umudu
+Dialogue: 0,0:02:24.46,0:02:24.50,OP02,,0,0,0,,{\pos(1145,60)}Çöpt{\alpha&HFF&}e filizlenen umudu
+Dialogue: 0,0:02:24.50,0:02:24.54,OP02,,0,0,0,,{\pos(1145,60)}Çöpty{\alpha&HFF&} filizlenen umudu
+Dialogue: 0,0:02:24.54,0:02:24.58,OP02,,0,0,0,,{\pos(1145,60)}Çöpte{\alpha&HFF&} filizlenen umudu
+Dialogue: 0,0:02:24.58,0:02:24.62,OP02,,0,0,0,,{\pos(1145,60)}Çöptel{\alpha&HFF&}filizlenen umudu
+Dialogue: 0,0:02:24.62,0:02:24.67,OP02,,0,0,0,,{\pos(1145,60)}Çöpte {\alpha&HFF&}filizlenen umudu
+Dialogue: 0,0:02:24.67,0:02:24.71,OP02,,0,0,0,,{\pos(1145,60)}Çöpte Q{\alpha&HFF&}ilizlenen umudu
+Dialogue: 0,0:02:24.71,0:02:24.75,OP02,,0,0,0,,{\pos(1145,60)}Çöpte f{\alpha&HFF&}ilizlenen umudu
+Dialogue: 0,0:02:24.75,0:02:24.79,OP02,,0,0,0,,{\pos(1145,60)}Çöpte fs{\alpha&HFF&}lizlenen umudu
+Dialogue: 0,0:02:24.79,0:02:24.83,OP02,,0,0,0,,{\pos(1145,60)}Çöpte fi{\alpha&HFF&}lizlenen umudu
+Dialogue: 0,0:02:24.83,0:02:24.87,OP02,,0,0,0,,{\pos(1145,60)}Çöpte fiS{\alpha&HFF&}izlenen umudu
+Dialogue: 0,0:02:24.87,0:02:24.92,OP02,,0,0,0,,{\pos(1145,60)}Çöpte fil{\alpha&HFF&}izlenen umudu
+Dialogue: 0,0:02:24.92,0:02:24.96,OP02,,0,0,0,,{\pos(1145,60)}Çöpte filj{\alpha&HFF&}zlenen umudu
+Dialogue: 0,0:02:24.96,0:02:25.00,OP02,,0,0,0,,{\pos(1145,60)}Çöpte fili{\alpha&HFF&}zlenen umudu
+Dialogue: 0,0:02:25.00,0:02:25.04,OP02,,0,0,0,,{\pos(1145,60)}Çöpte filiW{\alpha&HFF&}lenen umudu
+Dialogue: 0,0:02:25.04,0:02:25.08,OP02,,0,0,0,,{\pos(1145,60)}Çöpte filiz{\alpha&HFF&}lenen umudu
+Dialogue: 0,0:02:25.08,0:02:25.12,OP02,,0,0,0,,{\pos(1145,60)}Çöpte filizz{\alpha&HFF&}enen umudu
+Dialogue: 0,0:02:25.12,0:02:25.17,OP02,,0,0,0,,{\pos(1145,60)}Çöpte filizl{\alpha&HFF&}enen umudu
+Dialogue: 0,0:02:25.17,0:02:25.21,OP02,,0,0,0,,{\pos(1145,60)}Çöpte filizlm{\alpha&HFF&}nen umudu
+Dialogue: 0,0:02:25.21,0:02:25.25,OP02,,0,0,0,,{\pos(1145,60)}Çöpte filizle{\alpha&HFF&}nen umudu
+Dialogue: 0,0:02:25.25,0:02:25.29,OP02,,0,0,0,,{\pos(1145,60)}Çöpte filizles{\alpha&HFF&}en umudu
+Dialogue: 0,0:02:25.29,0:02:25.33,OP02,,0,0,0,,{\pos(1145,60)}Çöpte filizlen{\alpha&HFF&}en umudu
+Dialogue: 0,0:02:25.33,0:02:25.38,OP02,,0,0,0,,{\pos(1145,60)}Çöpte filizlenO{\alpha&HFF&}n umudu
+Dialogue: 0,0:02:25.38,0:02:25.42,OP02,,0,0,0,,{\pos(1145,60)}Çöpte filizlene{\alpha&HFF&}n umudu
+Dialogue: 0,0:02:25.42,0:02:25.46,OP02,,0,0,0,,{\pos(1145,60)}Çöpte filizleneW{\alpha&HFF&} umudu
+Dialogue: 0,0:02:25.46,0:02:25.50,OP02,,0,0,0,,{\pos(1145,60)}Çöpte filizlenen{\alpha&HFF&} umudu
+Dialogue: 0,0:02:25.50,0:02:25.54,OP02,,0,0,0,,{\pos(1145,60)}Çöpte filizlenenA{\alpha&HFF&}umudu
+Dialogue: 0,0:02:25.54,0:02:25.58,OP02,,0,0,0,,{\pos(1145,60)}Çöpte filizlenen {\alpha&HFF&}umudu
+Dialogue: 0,0:02:25.58,0:02:25.63,OP02,,0,0,0,,{\pos(1145,60)}Çöpte filizlenen M{\alpha&HFF&}mudu
+Dialogue: 0,0:02:25.63,0:02:25.67,OP02,,0,0,0,,{\pos(1145,60)}Çöpte filizlenen u{\alpha&HFF&}mudu
+Dialogue: 0,0:02:25.67,0:02:25.71,OP02,,0,0,0,,{\pos(1145,60)}Çöpte filizlenen uz{\alpha&HFF&}udu
+Dialogue: 0,0:02:25.71,0:02:25.75,OP02,,0,0,0,,{\pos(1145,60)}Çöpte filizlenen um{\alpha&HFF&}udu
+Dialogue: 0,0:02:25.75,0:02:25.79,OP02,,0,0,0,,{\pos(1145,60)}Çöpte filizlenen umJ{\alpha&HFF&}du
+Dialogue: 0,0:02:25.79,0:02:25.83,OP02,,0,0,0,,{\pos(1145,60)}Çöpte filizlenen umu{\alpha&HFF&}du
+Dialogue: 0,0:02:25.83,0:02:25.88,OP02,,0,0,0,,{\pos(1145,60)}Çöpte filizlenen umuZ{\alpha&HFF&}u
+Dialogue: 0,0:02:25.88,0:02:25.92,OP02,,0,0,0,,{\pos(1145,60)}Çöpte filizlenen umud{\alpha&HFF&}u
+Dialogue: 0,0:02:25.92,0:02:25.96,OP02,,0,0,0,,{\pos(1145,60)}Çöpte filizlenen umudO{\alpha&HFF&}
+Dialogue: 0,0:02:25.96,0:02:26.88,OP02,,0,0,0,,{\pos(1145,60)}Çöpte filizlenen umudu{\alpha&HFF&}
+Dialogue: 0,0:02:26.88,0:02:29.59,OP02,,0,0,0,,{\fnAggressive Angry Baby Killer\b0\pos(716.9,60)}Yıkılsın dünya
+Dialogue: 0,0:02:26.88,0:02:26.92,OP02,,0,0,0,,{\pos(1115.4,60)}d{\alpha&HFF&}iderek büyütelim!
+Dialogue: 0,0:02:26.92,0:02:26.96,OP02,,0,0,0,,{\pos(1115.4,60)}G{\alpha&HFF&}iderek büyütelim!
+Dialogue: 0,0:02:26.96,0:02:27.00,OP02,,0,0,0,,{\pos(1115.4,60)}Gr{\alpha&HFF&}derek büyütelim!
+Dialogue: 0,0:02:27.00,0:02:27.04,OP02,,0,0,0,,{\pos(1115.4,60)}Gi{\alpha&HFF&}derek büyütelim!
+Dialogue: 0,0:02:27.04,0:02:27.09,OP02,,0,0,0,,{\pos(1115.4,60)}GiJ{\alpha&HFF&}erek büyütelim!
+Dialogue: 0,0:02:27.09,0:02:27.13,OP02,,0,0,0,,{\pos(1115.4,60)}Gid{\alpha&HFF&}erek büyütelim!
+Dialogue: 0,0:02:27.13,0:02:27.17,OP02,,0,0,0,,{\pos(1115.4,60)}GidP{\alpha&HFF&}rek büyütelim!
+Dialogue: 0,0:02:27.17,0:02:27.21,OP02,,0,0,0,,{\pos(1115.4,60)}Gide{\alpha&HFF&}rek büyütelim!
+Dialogue: 0,0:02:27.21,0:02:27.25,OP02,,0,0,0,,{\pos(1115.4,60)}GideP{\alpha&HFF&}ek büyütelim!
+Dialogue: 0,0:02:27.25,0:02:27.29,OP02,,0,0,0,,{\pos(1115.4,60)}Gider{\alpha&HFF&}ek büyütelim!
+Dialogue: 0,0:02:27.29,0:02:27.34,OP02,,0,0,0,,{\pos(1115.4,60)}Giderg{\alpha&HFF&}k büyütelim!
+Dialogue: 0,0:02:27.34,0:02:27.38,OP02,,0,0,0,,{\pos(1115.4,60)}Gidere{\alpha&HFF&}k büyütelim!
+Dialogue: 0,0:02:27.38,0:02:27.42,OP02,,0,0,0,,{\pos(1115.4,60)}GidereK{\alpha&HFF&} büyütelim!
+Dialogue: 0,0:02:27.42,0:02:27.46,OP02,,0,0,0,,{\pos(1115.4,60)}Giderek{\alpha&HFF&} büyütelim!
+Dialogue: 0,0:02:27.46,0:02:27.50,OP02,,0,0,0,,{\pos(1115.4,60)}GiderekI{\alpha&HFF&}büyütelim!
+Dialogue: 0,0:02:27.50,0:02:27.54,OP02,,0,0,0,,{\pos(1115.4,60)}Giderek {\alpha&HFF&}büyütelim!
+Dialogue: 0,0:02:27.54,0:02:27.59,OP02,,0,0,0,,{\pos(1115.4,60)}Giderek c{\alpha&HFF&}üyütelim!
+Dialogue: 0,0:02:27.59,0:02:27.63,OP02,,0,0,0,,{\pos(1115.4,60)}Giderek b{\alpha&HFF&}üyütelim!
+Dialogue: 0,0:02:27.63,0:02:27.67,OP02,,0,0,0,,{\pos(1115.4,60)}Giderek br{\alpha&HFF&}yütelim!
+Dialogue: 0,0:02:27.67,0:02:27.71,OP02,,0,0,0,,{\pos(1115.4,60)}Giderek bü{\alpha&HFF&}yütelim!
+Dialogue: 0,0:02:27.71,0:02:27.75,OP02,,0,0,0,,{\pos(1115.4,60)}Giderek büE{\alpha&HFF&}ütelim!
+Dialogue: 0,0:02:27.75,0:02:27.79,OP02,,0,0,0,,{\pos(1115.4,60)}Giderek büy{\alpha&HFF&}ütelim!
+Dialogue: 0,0:02:27.79,0:02:27.84,OP02,,0,0,0,,{\pos(1115.4,60)}Giderek büyS{\alpha&HFF&}telim!
+Dialogue: 0,0:02:27.84,0:02:27.88,OP02,,0,0,0,,{\pos(1115.4,60)}Giderek büyü{\alpha&HFF&}telim!
+Dialogue: 0,0:02:27.88,0:02:27.92,OP02,,0,0,0,,{\pos(1115.4,60)}Giderek büyüU{\alpha&HFF&}elim!
+Dialogue: 0,0:02:27.92,0:02:27.96,OP02,,0,0,0,,{\pos(1115.4,60)}Giderek büyüt{\alpha&HFF&}elim!
+Dialogue: 0,0:02:27.96,0:02:28.00,OP02,,0,0,0,,{\pos(1115.4,60)}Giderek büyütg{\alpha&HFF&}lim!
+Dialogue: 0,0:02:28.00,0:02:28.04,OP02,,0,0,0,,{\pos(1115.4,60)}Giderek büyüte{\alpha&HFF&}lim!
+Dialogue: 0,0:02:28.04,0:02:28.09,OP02,,0,0,0,,{\pos(1115.4,60)}Giderek büyüteN{\alpha&HFF&}im!
+Dialogue: 0,0:02:28.09,0:02:28.13,OP02,,0,0,0,,{\pos(1115.4,60)}Giderek büyütel{\alpha&HFF&}im!
+Dialogue: 0,0:02:28.13,0:02:28.17,OP02,,0,0,0,,{\pos(1115.4,60)}Giderek büyütelQ{\alpha&HFF&}m!
+Dialogue: 0,0:02:28.17,0:02:28.21,OP02,,0,0,0,,{\pos(1115.4,60)}Giderek büyüteli{\alpha&HFF&}m!
+Dialogue: 0,0:02:28.21,0:02:28.25,OP02,,0,0,0,,{\pos(1115.4,60)}Giderek büyüteliO{\alpha&HFF&}!
+Dialogue: 0,0:02:28.25,0:02:28.29,OP02,,0,0,0,,{\pos(1115.4,60)}Giderek büyütelim{\alpha&HFF&}!
+Dialogue: 0,0:02:28.29,0:02:28.34,OP02,,0,0,0,,{\pos(1115.4,60)}Giderek büyütelimF{\alpha&HFF&}
+Dialogue: 0,0:02:28.34,0:02:29.59,OP02,,0,0,0,,{\pos(1115.4,60)}Giderek büyütelim!{\alpha&HFF&}
+Dialogue: 1,0:02:29.59,0:02:34.76,OP02,,0,0,0,,Zirveye varıp gururla gülümseyelim!
+Dialogue: 0,0:02:34.55,0:02:34.76,OP02,,0,0,0,,{\an7\pos(1363.77,35.57)\frz1.551\c&H1818CE&\p1}m -19.51 65.36 b -9.16 76.65 8.35 77.41 19.36 66.56 l 21.46 66.62 b 19.7 70.19 17.08 73.31 13.38 74.94 1.48 83.52 -15.4 77.88 -21.62 65.29 m -13.1 42.54 l -12.25 42.91 -11.52 43.48 -10.94 44.24 -10.58 45.13 -10.46 46.08 -10.57 47.01 -10.93 47.89 -11.51 48.63 -12.25 49.22 -13.13 49.58 -14.07 49.69 -15.03 49.58 -15.92 49.22 -16.68 48.63 -17.26 47.87 -17.62 46.98 -17.74 46.03 -17.63 45.09 -17.26 44.21 -16.68 43.47 -15.9 42.88 -14.99 42.53 -14.02 42.42 m 16.04 42.54 l 16.89 42.91 17.62 43.48 18.2 44.24 18.56 45.13 18.68 46.08 18.57 47.01 18.21 47.89 17.63 48.63 16.89 49.22 16.01 49.58 15.07 49.69 14.11 49.58 13.22 49.22 12.46 48.63 11.88 47.87 11.51 46.98 11.4 46.03 11.51 45.09 11.88 44.21 12.46 43.47 13.24 42.88 14.15 42.53 15.12 42.42
+Dialogue: 0,0:02:34.76,0:02:37.30,OP02,,0,0,0,,{\fnAggressive Angry Baby Killer\b0\pos(731.6,60)}Yitir kontrolü!
+Dialogue: 0,0:02:34.76,0:02:34.80,OP02,,0,0,0,,{\pos(1172.2,60)}l{\alpha&HFF&}u güzel düşümüzü
+Dialogue: 0,0:02:34.80,0:02:34.84,OP02,,0,0,0,,{\pos(1172.2,60)}B{\alpha&HFF&}u güzel düşümüzü
+Dialogue: 0,0:02:34.84,0:02:34.88,OP02,,0,0,0,,{\pos(1172.2,60)}BO{\alpha&HFF&} güzel düşümüzü
+Dialogue: 0,0:02:34.88,0:02:34.93,OP02,,0,0,0,,{\pos(1172.2,60)}Bu{\alpha&HFF&} güzel düşümüzü
+Dialogue: 0,0:02:34.93,0:02:34.97,OP02,,0,0,0,,{\pos(1172.2,60)}BuH{\alpha&HFF&}güzel düşümüzü
+Dialogue: 0,0:02:34.97,0:02:35.01,OP02,,0,0,0,,{\pos(1172.2,60)}Bu {\alpha&HFF&}güzel düşümüzü
+Dialogue: 0,0:02:35.01,0:02:35.05,OP02,,0,0,0,,{\pos(1172.2,60)}Bu M{\alpha&HFF&}üzel düşümüzü
+Dialogue: 0,0:02:35.05,0:02:35.09,OP02,,0,0,0,,{\pos(1172.2,60)}Bu g{\alpha&HFF&}üzel düşümüzü
+Dialogue: 0,0:02:35.09,0:02:35.13,OP02,,0,0,0,,{\pos(1172.2,60)}Bu gp{\alpha&HFF&}zel düşümüzü
+Dialogue: 0,0:02:35.13,0:02:35.18,OP02,,0,0,0,,{\pos(1172.2,60)}Bu gü{\alpha&HFF&}zel düşümüzü
+Dialogue: 0,0:02:35.18,0:02:35.22,OP02,,0,0,0,,{\pos(1172.2,60)}Bu güh{\alpha&HFF&}el düşümüzü
+Dialogue: 0,0:02:35.22,0:02:35.26,OP02,,0,0,0,,{\pos(1172.2,60)}Bu güz{\alpha&HFF&}el düşümüzü
+Dialogue: 0,0:02:35.26,0:02:35.30,OP02,,0,0,0,,{\pos(1172.2,60)}Bu güzh{\alpha&HFF&}l düşümüzü
+Dialogue: 0,0:02:35.30,0:02:35.34,OP02,,0,0,0,,{\pos(1172.2,60)}Bu güze{\alpha&HFF&}l düşümüzü
+Dialogue: 0,0:02:35.34,0:02:35.39,OP02,,0,0,0,,{\pos(1172.2,60)}Bu güzeJ{\alpha&HFF&} düşümüzü
+Dialogue: 0,0:02:35.39,0:02:35.43,OP02,,0,0,0,,{\pos(1172.2,60)}Bu güzel{\alpha&HFF&} düşümüzü
+Dialogue: 0,0:02:35.43,0:02:35.47,OP02,,0,0,0,,{\pos(1172.2,60)}Bu güzelr{\alpha&HFF&}düşümüzü
+Dialogue: 0,0:02:35.47,0:02:35.51,OP02,,0,0,0,,{\pos(1172.2,60)}Bu güzel {\alpha&HFF&}düşümüzü
+Dialogue: 0,0:02:35.51,0:02:35.55,OP02,,0,0,0,,{\pos(1172.2,60)}Bu güzel C{\alpha&HFF&}üşümüzü
+Dialogue: 0,0:02:35.55,0:02:35.59,OP02,,0,0,0,,{\pos(1172.2,60)}Bu güzel d{\alpha&HFF&}üşümüzü
+Dialogue: 0,0:02:35.59,0:02:35.64,OP02,,0,0,0,,{\pos(1172.2,60)}Bu güzel dZ{\alpha&HFF&}şümüzü
+Dialogue: 0,0:02:35.64,0:02:35.68,OP02,,0,0,0,,{\pos(1172.2,60)}Bu güzel dü{\alpha&HFF&}şümüzü
+Dialogue: 0,0:02:35.68,0:02:35.72,OP02,,0,0,0,,{\pos(1172.2,60)}Bu güzel düO{\alpha&HFF&}ümüzü
+Dialogue: 0,0:02:35.72,0:02:35.76,OP02,,0,0,0,,{\pos(1172.2,60)}Bu güzel düş{\alpha&HFF&}ümüzü
+Dialogue: 0,0:02:35.76,0:02:35.80,OP02,,0,0,0,,{\pos(1172.2,60)}Bu güzel düşi{\alpha&HFF&}müzü
+Dialogue: 0,0:02:35.80,0:02:35.84,OP02,,0,0,0,,{\pos(1172.2,60)}Bu güzel düşü{\alpha&HFF&}müzü
+Dialogue: 0,0:02:35.84,0:02:35.89,OP02,,0,0,0,,{\pos(1172.2,60)}Bu güzel düşüb{\alpha&HFF&}üzü
+Dialogue: 0,0:02:35.89,0:02:35.93,OP02,,0,0,0,,{\pos(1172.2,60)}Bu güzel düşüm{\alpha&HFF&}üzü
+Dialogue: 0,0:02:35.93,0:02:35.97,OP02,,0,0,0,,{\pos(1172.2,60)}Bu güzel düşümv{\alpha&HFF&}zü
+Dialogue: 0,0:02:35.97,0:02:36.01,OP02,,0,0,0,,{\pos(1172.2,60)}Bu güzel düşümü{\alpha&HFF&}zü
+Dialogue: 0,0:02:36.01,0:02:36.05,OP02,,0,0,0,,{\pos(1172.2,60)}Bu güzel düşümüO{\alpha&HFF&}ü
+Dialogue: 0,0:02:36.05,0:02:36.09,OP02,,0,0,0,,{\pos(1172.2,60)}Bu güzel düşümüz{\alpha&HFF&}ü
+Dialogue: 0,0:02:36.09,0:02:36.14,OP02,,0,0,0,,{\pos(1172.2,60)}Bu güzel düşümüzW{\alpha&HFF&}
+Dialogue: 0,0:02:36.14,0:02:37.30,OP02,,0,0,0,,{\pos(1172.2,60)}Bu güzel düşümüzü{\alpha&HFF&}
+Dialogue: 0,0:02:37.30,0:02:39.93,OP02,,0,0,0,,{\fnAggressive Angry Baby Killer\b0\c&H1818CE&\pos(710.1,60)}Kan {\c&HFFFFFF&}dökülecek!
+Dialogue: 0,0:02:37.30,0:02:37.35,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}b{\alpha&HFF&}irileri kirletiyor!
+Dialogue: 0,0:02:37.35,0:02:37.39,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}B{\alpha&HFF&}irileri kirletiyor!
+Dialogue: 0,0:02:37.39,0:02:37.43,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}Bh{\alpha&HFF&}rileri kirletiyor!
+Dialogue: 0,0:02:37.43,0:02:37.47,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}Bi{\alpha&HFF&}rileri kirletiyor!
+Dialogue: 0,0:02:37.47,0:02:37.51,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}BiY{\alpha&HFF&}ileri kirletiyor!
+Dialogue: 0,0:02:37.51,0:02:37.55,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}Bir{\alpha&HFF&}ileri kirletiyor!
+Dialogue: 0,0:02:37.55,0:02:37.60,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}BirW{\alpha&HFF&}leri kirletiyor!
+Dialogue: 0,0:02:37.60,0:02:37.64,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}Biri{\alpha&HFF&}leri kirletiyor!
+Dialogue: 0,0:02:37.64,0:02:37.68,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}Birik{\alpha&HFF&}eri kirletiyor!
+Dialogue: 0,0:02:37.68,0:02:37.72,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}Biril{\alpha&HFF&}eri kirletiyor!
+Dialogue: 0,0:02:37.72,0:02:37.76,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}Birilv{\alpha&HFF&}ri kirletiyor!
+Dialogue: 0,0:02:37.76,0:02:37.80,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}Birile{\alpha&HFF&}ri kirletiyor!
+Dialogue: 0,0:02:37.80,0:02:37.85,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}Birilek{\alpha&HFF&}i kirletiyor!
+Dialogue: 0,0:02:37.85,0:02:37.89,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}Biriler{\alpha&HFF&}i kirletiyor!
+Dialogue: 0,0:02:37.89,0:02:37.93,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}BirilerV{\alpha&HFF&} kirletiyor!
+Dialogue: 0,0:02:37.93,0:02:37.97,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}Birileri{\alpha&HFF&} kirletiyor!
+Dialogue: 0,0:02:37.97,0:02:38.01,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}Birileriv{\alpha&HFF&}kirletiyor!
+Dialogue: 0,0:02:38.01,0:02:38.05,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}Birileri {\alpha&HFF&}kirletiyor!
+Dialogue: 0,0:02:38.05,0:02:38.10,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}Birileri o{\alpha&HFF&}irletiyor!
+Dialogue: 0,0:02:38.10,0:02:38.14,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}Birileri k{\alpha&HFF&}irletiyor!
+Dialogue: 0,0:02:38.14,0:02:38.18,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}Birileri kV{\alpha&HFF&}rletiyor!
+Dialogue: 0,0:02:38.18,0:02:38.22,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}Birileri ki{\alpha&HFF&}rletiyor!
+Dialogue: 0,0:02:38.22,0:02:38.26,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}Birileri kiq{\alpha&HFF&}letiyor!
+Dialogue: 0,0:02:38.26,0:02:38.30,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}Birileri kir{\alpha&HFF&}letiyor!
+Dialogue: 0,0:02:38.30,0:02:38.35,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}Birileri kirb{\alpha&HFF&}etiyor!
+Dialogue: 0,0:02:38.35,0:02:38.39,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}Birileri kirl{\alpha&HFF&}etiyor!
+Dialogue: 0,0:02:38.39,0:02:38.43,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}Birileri kirlo{\alpha&HFF&}tiyor!
+Dialogue: 0,0:02:38.43,0:02:38.47,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}Birileri kirle{\alpha&HFF&}tiyor!
+Dialogue: 0,0:02:38.47,0:02:38.51,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}Birileri kirleM{\alpha&HFF&}iyor!
+Dialogue: 0,0:02:38.51,0:02:38.56,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}Birileri kirlet{\alpha&HFF&}iyor!
+Dialogue: 0,0:02:38.56,0:02:38.60,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}Birileri kirletj{\alpha&HFF&}yor!
+Dialogue: 0,0:02:38.60,0:02:38.64,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}Birileri kirleti{\alpha&HFF&}yor!
+Dialogue: 0,0:02:38.64,0:02:38.68,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}Birileri kirletib{\alpha&HFF&}or!
+Dialogue: 0,0:02:38.68,0:02:38.72,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}Birileri kirletiy{\alpha&HFF&}or!
+Dialogue: 0,0:02:38.72,0:02:38.76,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}Birileri kirletiyq{\alpha&HFF&}r!
+Dialogue: 0,0:02:38.76,0:02:38.81,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}Birileri kirletiyo{\alpha&HFF&}r!
+Dialogue: 0,0:02:38.81,0:02:38.85,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}Birileri kirletiyod{\alpha&HFF&}!
+Dialogue: 0,0:02:38.85,0:02:38.89,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}Birileri kirletiyor{\alpha&HFF&}!
+Dialogue: 0,0:02:38.89,0:02:38.93,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}Birileri kirletiyorx{\alpha&HFF&}
+Dialogue: 0,0:02:38.93,0:02:39.93,OP02,,0,0,0,,{\c&HFFFFFF&\pos(1121.6,60)}Birileri kirletiyor!{\alpha&HFF&}
+Dialogue: 0,0:02:39.93,0:02:41.34,OP02,,0,0,0,,Kim olabilir?
+Dialogue: 0,0:02:41.35,0:02:42.68,OP02,,0,0,0,,Kim olabilir? Kim olabilir?
+Dialogue: 0,0:02:42.68,0:02:45.14,OP02,,0,0,0,,{\pos(825.6,60)}Kimse kimdir,
+Dialogue: 0,0:02:43.60,0:02:43.64,OP02,,0,0,0,,{\pos(1104.4,60)}f{\alpha&HFF&}ark etmez!
+Dialogue: 0,0:02:43.64,0:02:43.69,OP02,,0,0,0,,{\pos(1104.4,60)}fa{\alpha&HFF&}rk etmez!
+Dialogue: 0,0:02:43.69,0:02:43.73,OP02,,0,0,0,,{\pos(1104.4,60)}far{\alpha&HFF&}k etmez!
+Dialogue: 0,0:02:43.73,0:02:43.77,OP02,,0,0,0,,{\pos(1104.4,60)}fark{\alpha&HFF&} etmez!
+Dialogue: 0,0:02:43.77,0:02:43.81,OP02,,0,0,0,,{\pos(1104.4,60)}fark {\alpha&HFF&}etmez!
+Dialogue: 0,0:02:43.81,0:02:43.85,OP02,,0,0,0,,{\pos(1104.4,60)}fark e{\alpha&HFF&}tmez!
+Dialogue: 0,0:02:43.85,0:02:43.89,OP02,,0,0,0,,{\pos(1104.4,60)}fark et{\alpha&HFF&}mez!
+Dialogue: 0,0:02:43.89,0:02:43.94,OP02,,0,0,0,,{\pos(1104.4,60)}fark etm{\alpha&HFF&}ez!
+Dialogue: 0,0:02:43.94,0:02:43.98,OP02,,0,0,0,,{\pos(1104.4,60)}fark etme{\alpha&HFF&}z!
+Dialogue: 0,0:02:43.98,0:02:44.02,OP02,,0,0,0,,{\pos(1104.4,60)}fark etmez{\alpha&HFF&}!
+Dialogue: 0,0:02:44.02,0:02:45.14,OP02,,0,0,0,,{\pos(1104.4,60)}fark etmez!
+Dialogue: 0,0:02:45.14,0:02:47.86,OP02,,0,0,0,,İmkansız diyen herkese inat!
+Dialogue: 0,0:02:47.86,0:02:50.98,OP02,,0,0,0,,Herkese rağmen gerçek kılacağız bu düşü!
+Dialogue: 0,0:02:50.98,0:02:51.32,OP02,,0,0,0,,Herkese rağmen gerçek kılacağız bu {\c&H713C1A&}dü{\c&HFFFFFF&}şü!
+Dialogue: 0,0:02:51.32,0:02:51.65,OP02,,0,0,0,,Herkese rağmen gerçek kılacağız bu {\c&H713C1A&}düşü{\c&HFFFFFF&}!
+Dialogue: 0,0:02:51.65,0:02:52.03,OP02,,0,0,0,,{\c&HBDE9F1&\t(17,0,\c&H240144&)}Herkese rağmen gerçek kılacağız bu düşü!
+Dialogue: 0,0:02:52.03,0:02:52.28,OP02,,0,0,0,,{\c&H240144&\t(17,0,\c&HBDE9F1&)}Herkese rağmen gerçek kılacağız bu düşü!
+Dialogue: 0,0:02:52.28,0:02:52.67,OP02,,0,0,0,,{\c&HBDE9F1&\t(17,0,\c&H240144&)}Herkese rağmen gerçek kılacağız bu düşü!
+Dialogue: 0,0:02:54.24,0:02:54.61,OP02,,0,0,0,,{\fnUnispace\c&HBDE9F1&\t(17,0,\c&H240144&)}Harbi Kir
+Dialogue: 0,0:02:54.61,0:02:54.86,OP02,,0,0,0,,{\fnUnispace\c&H240144&\t(17,0,\c&HBDE9F1&)}Harbi Kir
+Dialogue: 0,0:02:54.86,0:02:55.24,OP02,,0,0,0,,{\fnUnispace\c&HBDE9F1&\t(17,0,\c&H240144&)}Harbi Kir
+Comment: 0,0:22:09.93,0:23:39.23,vuatsigns,,0,0,0,,{ED}
+Dialogue: 0,0:22:16.65,0:22:19.15,ED02,,0,0,0,,İlk bakışta anladım benziyoruz
+Dialogue: 0,0:22:19.15,0:22:22.53,ED02,,0,0,0,,Dedim tokaşalım da tanışalım o zaman
+Dialogue: 0,0:22:22.53,0:22:27.56,ED02,,0,0,0,,Tesadüfse burada toplanmak, kıralım belini iki lafın falan
+Dialogue: 0,0:22:27.56,0:22:28.45,ED02,,0,0,0,,Memnun oldum
+Dialogue: 0,0:22:28.78,0:22:29.37,ED02,,0,0,0,,{\c&HFFFFFF&\4c&H000000&}Üst alt dolanık
+Dialogue: 0,0:22:29.37,0:22:30.25,ED02,,0,0,0,,{\c&HFFFFFF&\4c&H000000&}Fitilse yanık
+Dialogue: 0,0:22:30.25,0:22:30.85,ED02,,0,0,0,,{\c&HFFFFFF&\4c&H000000&}Çekirdeğe yakın
+Dialogue: 0,0:22:30.85,0:22:32.44,ED02,,0,0,0,,{\c&HFFFFFF&\4c&H000000&}Bitmez gürültü, uzadıkça laf
+Dialogue: 0,0:22:32.44,0:22:34.42,ED02,,0,0,0,,{\c&HFFFFFF&\4c&H000000&}İcap eder halletmek bir şekilde zor da olsa
+Dialogue: 0,0:22:34.42,0:22:35.38,ED02,,0,0,0,,{\c&HFFFFFF&\4c&H000000&}Kontak kapalı, sırtım taş
+Dialogue: 0,0:22:35.38,0:22:36.90,ED02,,0,0,0,,{\c&HFFFFFF&\4c&H000000&}Defter kalem falan da kalmamış
+Dialogue: 0,0:22:36.90,0:22:38.44,ED02,,0,0,0,,{\c&HFFFFFF&\4c&H000000&}Varsın hurda olsun başlangıç
+Dialogue: 0,0:22:38.44,0:22:39.92,ED02,,0,0,0,,{\c&HFFFFFF&\4c&H000000&}Sevgi benimki, adı konmamış
+Dialogue: 0,0:22:39.92,0:22:40.47,ED02,,0,0,0,,Sevgi benimki, adı konmamış
+Dialogue: 0,0:22:40.47,0:22:43.25,ED02,,0,0,0,,Nefret dolu içi, boş gerisi
+Dialogue: 0,0:22:43.25,0:22:46.02,ED02,,0,0,0,,Göz yaşıyla mı açacak çiçekler?
+Dialogue: 0,0:22:46.02,0:22:48.89,ED02,,0,0,0,,Yas tutsak da değişmiyor belli ki
+Dialogue: 0,0:22:48.89,0:22:52.39,ED02,,0,0,0,,Dünya böyle dönüyor demek ki
+Dialogue: 0,0:22:52.39,0:22:54.60,ED02,,0,0,0,,Anılar ve sınırlar çakışır
+Dialogue: 0,0:22:54.60,0:22:55.36,ED02,,0,0,0,,{\c&HFFFFFF&\4c&H000000&}Anılar ve sınırlar çakışır
+Dialogue: 0,0:22:55.36,0:22:57.57,ED02,,0,0,0,,{\c&HFFFFFF&\4c&H000000&}Yükselir bugün de gün ışığı
+Dialogue: 0,0:22:57.57,0:22:58.23,ED02,,0,0,0,,Yükselir bugün de gün ışığı
+Dialogue: 0,0:22:58.23,0:22:59.03,ED02,,0,0,0,,Nefretine ve düşüncelerine
+Dialogue: 0,0:22:59.03,0:22:59.44,ED02,,0,0,0,,{\c&HFFFFFF&\4c&H000000&}Nefretine ve düşüncelerine
+Dialogue: 0,0:22:59.44,0:22:59.78,ED02,,0,0,0,,Nefretine ve düşüncelerine
+Dialogue: 0,0:22:59.78,0:23:00.36,ED02,,0,0,0,,{\c&HFFFFFF&\4c&H000000&}Nefretine ve düşüncelerine
+Dialogue: 0,0:23:00.36,0:23:01.09,ED02,,0,0,0,,Nefretine ve düşüncelerine
+Dialogue: 0,0:23:01.09,0:23:02.28,ED02,,0,0,0,,Işık tutar gün aydınlığı
+Dialogue: 0,0:23:02.28,0:23:03.28,ED02,,0,0,0,,{\c&HFFFFFF&\4c&H000000&}Işık tutar gün aydınlığı
+Dialogue: 0,0:23:03.28,0:23:04.07,ED02,,0,0,0,,Işık tutar gün aydınlığı
+Dialogue: 0,0:23:04.07,0:23:06.87,ED02,,0,0,0,,{\c&HFFFFFF&\4c&H000000&}Kötücül nedamet ve sevgi
+Dialogue: 0,0:23:06.87,0:23:09.89,ED02,,0,0,0,,Almış avucuna bir belirsizlik
+Dialogue: 0,0:23:09.89,0:23:10.41,ED02,,0,0,0,,Uzaklarda dalgalanan yapay
+Dialogue: 0,0:23:10.41,0:23:12.83,ED02,,0,0,0,,{\c&HFFFFFF&\4c&H000000&}Uzaklarda dalgalanan yapay
+Dialogue: 0,0:23:12.83,0:23:17.28,ED02,,0,0,0,,Gökyüzüne bakarken arınmaya çalışıyoruz bu çılgınlıktan
